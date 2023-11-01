@@ -1,0 +1,5520 @@
+Code,Disease
+86152,Cell enumeration id
+86152,Cell enumeration
+86152,enumeration id
+86152,enumeration id Cell
+86153,Cell enumeration phys interp
+86153,Cell enumeration
+86153,enumeration phys
+86153,phys interp
+86153,phys Cell enumeration interp
+86890,Autologous blood process
+86890,Autologous blood
+86890,blood process
+86890,process blood Autologous
+86891,Autologous blood op salvage
+86891,Autologous blood
+86891,blood op
+86891,op salvage
+86891,blood Autologous op salvage
+86927,Plasma fresh frozen
+86927,Plasma fresh
+86927,fresh frozen
+86927,frozen fresh Plasma
+86930,Frozen blood prep
+86930,Frozen blood
+86930,blood prep
+86930,blood prep Frozen
+86931,Frozen blood thaw
+86931,Frozen blood
+86931,blood thaw
+86931,thaw blood Frozen
+86932,Frozen blood freeze/thaw
+86932,Frozen blood
+86932,blood freeze/thaw
+86945,Blood product/irradiation
+86950,Leukacyte transfusion
+86950,transfusion Leukacyte
+86960,Vol reduction of blood/prod
+86960,Vol reduction
+86960,reduction of
+86960,of blood/prod
+86960,of blood/prod Vol reduction
+86965,Pooling blood platelets
+86965,Pooling blood
+86965,blood platelets
+86965,blood Pooling platelets
+86985,Split blood or products
+86985,Split blood
+86985,blood or
+86985,or products
+86985,or Split blood products
+0008M,Onc breast risk score
+0008M,Onc breast
+0008M,breast risk
+0008M,risk score
+0008M,Onc score risk breast
+0011M,Onc prst8 ca mrna 12 gen alg
+0011M,Onc prst8
+0011M,prst8 ca
+0011M,ca mrna
+0011M,mrna 12
+0011M,12 gen
+0011M,gen alg
+0011M,12 gen alg mrna ca prst8 Onc
+0012M ,Onc mrna 5 gen rsk urthl ca
+0012M ,Onc mrna
+0012M ,mrna 5
+0012M ,5 gen
+0012M ,gen rsk
+0012M ,rsk urthl
+0012M ,urthl ca
+0012M ,Onc gen ca mrna rsk urthl 5
+0013M ,Onc mrna 5 gen recr urthl ca
+0013M ,Onc mrna
+0013M ,mrna 5
+0013M ,5 gen
+0013M ,gen recr
+0013M ,recr urthl
+0013M ,urthl ca
+0013M ,recr ca Onc mrna 5 urthl gen
+0016M,Onc bladder mrna 219 gen alg
+0016M,Onc bladder
+0016M,bladder mrna
+0016M,mrna 219
+0016M,219 gen
+0016M,gen alg
+0016M,Onc 219 alg gen mrna bladder
+0017M,Onc dlbcl mrna 20 genes alg
+0017M,Onc dlbcl
+0017M,dlbcl mrna
+0017M,mrna 20
+0017M,20 genes
+0017M,genes alg
+0017M,genes Onc dlbcl 20 alg mrna
+0018U,Onc thyr 10 microrna seq alg
+0018U,Onc thyr
+0018U,thyr 10
+0018U,10 microrna
+0018U,microrna seq
+0018U,seq alg
+0018U,alg 10 seq Onc thyr microrna
+0019U,Onc rna tiss predict alg
+0019U,Onc rna
+0019U,rna tiss
+0019U,tiss predict
+0019U,predict alg
+0019U,Onc predict alg tiss rna
+0021U,Onc prst8 detcj 8 autoantb
+0021U,Onc prst8
+0021U,prst8 detcj
+0021U,detcj 8
+0021U,8 autoantb
+0021U,prst8 detcj autoantb Onc 8
+0022U,Trgt gen seq dnarna 1-23 gn
+0022U,Trgt gen
+0022U,gen seq
+0022U,seq dnarna
+0022U,dnarna 1-23
+0022U,1-23 gn
+0022U,dnarna gn 1-23 Trgt seq gen
+0023U,Onc aml dna detcj/nondetcj
+0023U,Onc aml
+0023U,aml dna
+0023U,dna detcj/nondetcj
+0023U,Onc aml detcj/nondetcj dna
+0024U,Glyca nuc mr spectrsc quan
+0024U,Glyca nuc
+0024U,nuc mr
+0024U,mr spectrsc
+0024U,spectrsc quan
+0024U,mr quan Glyca spectrsc nuc
+0025U,Tenofovir liq chrom ur quan
+0025U,Tenofovir liq
+0025U,liq chrom
+0025U,chrom ur
+0025U,ur quan
+0025U,chrom ur Tenofovir liq quan
+0026U,Onc thyr dnamrna 112 genes
+0026U,Onc thyr
+0026U,thyr dnamrna
+0026U,dnamrna 112
+0026U,112 genes
+0026U,Onc genes thyr dnamrna 112
+0027U,Jak2 gene trgt seq alys
+0027U,Jak2 gene
+0027U,gene trgt
+0027U,trgt seq
+0027U,seq alys
+0027U,trgt seq Jak2 alys gene
+0029U,Rx metab advrs trgt seq alys
+0029U,Rx metab
+0029U,metab advrs
+0029U,advrs trgt
+0029U,trgt seq
+0029U,seq alys
+0029U,trgt metab seq advrs Rx alys
+0030U ,Rx metab warf trgt seq alys
+0030U ,Rx metab
+0030U ,metab warf
+0030U ,warf trgt
+0030U ,trgt seq
+0030U ,seq alys
+0030U ,Rx trgt metab warf seq alys
+0031U,Cypia2 gene
+0031U,gene Cypia2
+0032U,Comt gene
+0032U,gene Comt
+0033U,Htr2a htr2c genes
+0033U,Htr2a htr2c
+0033U,htr2c genes
+0033U,Htr2a genes htr2c
+0034U,Tpmt nudt15 genes
+0034U,Tpmt nudt15
+0034U,nudt15 genes
+0034U,nudt15 genes Tpmt
+0035U,Neuro csf prion prtn qual
+0035U,Neuro csf
+0035U,csf prion
+0035U,prion prtn
+0035U,prtn qual
+0035U,Neuro csf prtn prion qual
+0036U,Xome tum  nml spec seq alys
+0036U,Xome tum
+0036U,tum nml
+0036U,nml spec
+0036U,spec seq
+0036U,seq alys
+0036U,alys nml seq tum Xome spec
+0037U,Trgt gen seq rgt gen seq dna 324 genes
+0037U,Trgt gen
+0037U,gen seq
+0037U,seq rgt
+0037U,rgt gen
+0037U,gen seq
+0037U,seq dna
+0037U,dna 324
+0037U,324 genes
+0037U,seq gen rgt 324 Trgt genes dna gen seq
+0038U ,Vitamin d srm microsamp quan
+0038U ,Vitamin d
+0038U ,d srm
+0038U ,srm microsamp
+0038U ,microsamp quan
+0038U ,Vitamin microsamp d quan srm
+0039U,Dna antb 2strand hi avidity
+0039U,Dna antb
+0039U,antb 2strand
+0039U,2strand hi
+0039U,hi avidity
+0039U,Dna 2strand hi antb avidity
+0040U ,Bcr/abl1 gene major bp quan
+0040U ,Bcr/abl1 gene
+0040U ,gene major
+0040U ,major bp
+0040U ,bp quan
+0040U ,major quan gene bp Bcr/abl1
+0041U,B brgdrferi antb 5 prtn igm
+0041U,B brgdrferi
+0041U,brgdrferi antb
+0041U,antb 5
+0041U,5 prtn
+0041U,prtn igm
+0041U,5 igm antb prtn B brgdrferi
+0042U,B brgdrferi antb 12 prtn igg
+0042U,B brgdrferi
+0042U,brgdrferi antb
+0042U,antb 12
+0042U,12 prtn
+0042U,prtn igg
+0042U,B igg 12 brgdrferi prtn antb
+0043U,Tbrg b grp antb 4 prtn igm
+0043U,Tbrg b
+0043U,b grp
+0043U,grp antb
+0043U,antb 4
+0043U,4 prtn
+0043U,prtn igm
+0043U,prtn 4 igm grp antb b Tbrg
+0044U ,Tbrf b grp antb 4 prtn igg
+0044U ,Tbrf b
+0044U ,b grp
+0044U ,grp antb
+0044U ,antb 4
+0044U ,4 prtn
+0044U ,prtn igg
+0044U ,prtn Tbrf b grp antb 4 igg
+0045U,Onc brst dux carc is 12 gene
+0045U,Onc brst
+0045U,brst dux
+0045U,dux carc
+0045U,carc is
+0045U,is 12
+0045U,12 gene
+0045U,gene 12 Onc is brst dux carc
+0046U,Flt3 genie itd variants quan
+0046U,Flt3 genie
+0046U,genie itd
+0046U,itd variants
+0046U,variants quan
+0046U,variants Flt3 genie itd quan
+0047U ,Onc prst8 mrna 17 gene alg
+0047U ,Onc prst8
+0047U ,prst8 mrna
+0047U ,mrna 17
+0047U ,17 gene
+0047U ,gene alg
+0047U ,prst8 Onc gene alg 17 mrna
+0048U ,Onc sld org neo dna 468 gene
+0048U ,Onc sld
+0048U ,sld org
+0048U ,org neo
+0048U ,neo dna
+0048U ,dna 468
+0048U ,468 gene
+0048U ,org neo Onc sld 468 gene dna
+0049U,Npm1 gene analysis quan
+0049U,Npm1 gene
+0049U,gene analysis
+0049U,analysis quan
+0049U,quan gene analysis Npm1
+0050U,Trgt gen seq dna 194 genes
+0050U,Trgt gen
+0050U,gen seq
+0050U,seq dna
+0050U,dna 194
+0050U,194 genes
+0050U,gen seq genes dna Trgt 194
+0051U ,Rx mntr lc-ms/ms ur 31 pnl
+0051U ,Rx mntr
+0051U ,mntr lc-ms/ms
+0051U ,lc-ms/ms ur
+0051U ,ur 31
+0051U ,31 pnl
+0051U ,lc-ms/ms pnl 31 ur Rx mntr
+0052U,Lpoprtn bld w/5 maj classes
+0052U,Lpoprtn bld
+0052U,bld w/5
+0052U,w/5 maj
+0052U,maj classes
+0052U,classes w/5 maj bld Lpoprtn
+0053U,Onc prst8 ca fish alys 4 gen
+0053U,Onc prst8
+0053U,prst8 ca
+0053U,ca fish
+0053U,fish alys
+0053U,alys 4
+0053U,4 gen
+0053U,alys fish 4 prst8 Onc ca gen
+0054U,Rx mntr 14 drugs  sbsts
+0054U,Rx mntr
+0054U,mntr 14
+0054U,14 drugs
+0054U,drugs sbsts
+0054U,sbsts 14 Rx drugs mntr
+0055U,Card hrt trnspl 96 dna seq
+0055U,Card hrt
+0055U,hrt trnspl
+0055U,trnspl 96
+0055U,96 dna
+0055U,dna seq
+0055U,hrt seq dna 96 Card trnspl
+0058U,Onc merkel cll carc srm quan
+0058U,Onc merkel
+0058U,merkel cll
+0058U,cll carc
+0058U,carc srm
+0058U,srm quan
+0058U,cll merkel carc Onc srm quan
+0059U,Onc merkel cll carc srm/-
+0059U,Onc merkel
+0059U,merkel cll
+0059U,cll carc
+0059U,carc srm/-
+0059U,cll Onc carc merkel srm/-
+0060U ,Twn zyg gen seq alys chrms2
+0060U ,Twn zyg
+0060U ,zyg gen
+0060U ,gen seq
+0060U ,seq alys
+0060U ,alys chrms2
+0060U ,alys seq gen zyg Twn chrms2
+0061U,Tc meas 5 bmrk sfdi m-s alys
+0061U,Tc meas
+0061U,meas 5
+0061U,5 bmrk
+0061U,bmrk sfdi
+0061U,sfdi m-s
+0061U,m-s alys
+0061U,bmrk m-s alys Tc sfdi 5 meas
+0153U,Onc breast mrna 101 genes 
+0153U,Onc breast
+0153U,breast mrna
+0153U,mrna 101
+0153U,101 genes
+0153U,Onc genes 101 breast mrna
+0154U ,Onc urthl ca rna fgfr3 gene
+0154U ,Onc urthl
+0154U ,urthl ca
+0154U ,ca rna
+0154U ,rna fgfr3
+0154U ,fgfr3 gene
+0154U ,rna fgfr3 gene ca urthl Onc
+0155U,Onc brst ca dna pik3ca gene
+0155U,Onc brst
+0155U,brst ca
+0155U,ca dna
+0155U,dna pik3ca
+0155U,pik3ca gene
+0155U,Onc gene brst dna pik3ca ca
+0172U,Onc sld tum alys brca1 brca2
+0172U,Onc sld
+0172U,sld tum
+0172U,tum alys
+0172U,alys brca1
+0172U,brca1 brca2
+0172U,Onc sld brca2 alys brca1 tum
+0174U,Onc solid tumor 30 prtn trgt
+0174U,Onc solid
+0174U,solid tumor
+0174U,tumor 30
+0174U,30 prtn
+0174U,prtn trgt
+0174U,trgt tumor 30 Onc prtn solid
+0177U,Onc brst ca dna pik3ca 11
+0177U,Onc brst
+0177U,brst ca
+0177U,ca dna
+0177U,dna pik3ca
+0177U,pik3ca 11
+0177U,dna ca 11 brst Onc pik3ca
+0179U,Onc nonsm cll lng ca alys 23
+0179U,Onc nonsm
+0179U,nonsm cll
+0179U,cll lng
+0179U,lng ca
+0179U,ca alys
+0179U,alys 23
+0179U,lng cll 23 Onc alys ca nonsm
+0202U,Nfct ds 22 trgt sars-cov-2
+0202U,Nfct ds
+0202U,ds 22
+0202U,22 trgt
+0202U,trgt sars-cov-2
+0202U,ds trgt Nfct sars-cov-2 22
+0204U,Onc thyr mrna xprsn alys 593
+0204U,Onc thyr
+0204U,thyr mrna
+0204U,mrna xprsn
+0204U,xprsn alys
+0204U,alys 593
+0204U,mrna Onc 593 thyr xprsn alys
+0223U,Nfct ds 22 trgt sars-cov-2 
+0223U,Nfct ds
+0223U,ds 22
+0223U,22 trgt
+0223U,trgt sars-cov-2
+0223U,Nfct trgt 22 ds sars-cov-2
+0224U,Antibody sars-cov-2 titer(s)
+0224U,Antibody sars-cov-2
+0224U,sars-cov-2 titer(s)
+0225U,Nfct ds dnarna 21 sarscov2
+0225U,Nfct ds
+0225U,ds dnarna
+0225U,dnarna 21
+0225U,21 sarscov2
+0225U,sarscov2 21 dnarna Nfct ds
+0226U,Svnt sarscov2 elisa plsm srm
+0226U,Svnt sarscov2
+0226U,sarscov2 elisa
+0226U,elisa plsm
+0226U,plsm srm
+0226U,plsm srm Svnt elisa sarscov2
+0229U  ,Bcat1ikzf1 prmtr mthln alys
+0229U  ,Bcat1ikzf1 prmtr
+0229U  ,prmtr mthln
+0229U  ,mthln alys
+0229U  ,alys Bcat1ikzf1 prmtr mthln
+0230U  ,Ar full sequence analysis
+0230U  ,Ar full
+0230U  ,full sequence
+0230U  ,sequence analysis
+0230U  ,Ar sequence full analysis
+0231U,Cacna1a full gene analysis
+0231U,Cacna1a full
+0231U,full gene
+0231U,gene analysis
+0231U,gene analysis full Cacna1a
+0232U,Cstb full gene analysis
+0232U,Cstb full
+0232U,full gene
+0232U,gene analysis
+0232U,analysis Cstb gene full
+0233U ,Fxn gene analysis
+0233U ,Fxn gene
+0233U ,gene analysis
+0233U ,Fxn analysis gene
+0234U,Mecp2 full gene analysis
+0234U,Mecp2 full
+0234U,full gene
+0234U,gene analysis
+0234U,full gene Mecp2 analysis
+0235U,Pten full gene analysis
+0235U,Pten full
+0235U,full gene
+0235U,gene analysis
+0235U,gene analysis Pten full
+0236U,Smn1smn2 full gene analysis
+0236U,Smn1smn2 full
+0236U,full gene
+0236U,gene analysis
+0236U,Smn1smn2 gene analysis full
+0237U,Car ion chnlpthy gen seq pnl
+0237U,Car ion
+0237U,ion chnlpthy
+0237U,chnlpthy gen
+0237U,gen seq
+0237U,seq pnl
+0237U,chnlpthy gen pnl Car ion seq
+0238U,Onc lnch syn gen dna seq aly
+0238U,Onc lnch
+0238U,lnch syn
+0238U,syn gen
+0238U,gen dna
+0238U,dna seq
+0238U,seq aly
+0238U,gen aly seq lnch Onc syn dna
+0239U,Trgt gen seq alys pnl 311
+0239U,Trgt gen
+0239U,gen seq
+0239U,seq alys
+0239U,alys pnl
+0239U,pnl 311
+0239U,gen alys 311 seq pnl Trgt
+0240U,Nfct ds vir resp rna 3 trgt
+0240U,Nfct ds
+0240U,ds vir
+0240U,vir resp
+0240U,resp rna
+0240U,rna 3
+0240U,3 trgt
+0240U,resp Nfct trgt 3 ds vir rna
+0241U,Nfct ds vir resp rna 4 trgt
+0241U,Nfct ds
+0241U,ds vir
+0241U,vir resp
+0241U,resp rna
+0241U,rna 4
+0241U,4 trgt
+0241U,4 Nfct ds resp rna vir trgt
+0242U,Trgt gen seq alys pnl 55-74
+0242U,Trgt gen
+0242U,gen seq
+0242U,seq alys
+0242U,alys pnl
+0242U,pnl 55-74
+0242U,seq Trgt alys 55-74 pnl gen
+0244U ,Onc solid orgn dna 257 genes
+0244U ,Onc solid
+0244U ,solid orgn
+0244U ,orgn dna
+0244U ,dna 257
+0244U ,257 genes
+0244U ,genes 257 Onc dna orgn solid
+0245U,Onc thyr mut alys 10 gen37
+0245U,Onc thyr
+0245U,thyr mut
+0245U,mut alys
+0245U,alys 10
+0245U,10 gen37
+0245U,mut alys 10 Onc gen37 thyr
+0246U,Rbc dna gnotyp 16 bld groups
+0246U,Rbc dna
+0246U,dna gnotyp
+0246U,gnotyp 16
+0246U,16 bld
+0246U,bld groups
+0246U,groups bld Rbc dna gnotyp 16
+0250U,Onc sld org neo dna 505 gene
+0250U,Onc sld
+0250U,sld org
+0250U,org neo
+0250U,neo dna
+0250U,dna 505
+0250U,505 gene
+0250U,gene dna neo Onc org 505 sld
+0258U,Ai psor mrna 50-100 gen alg
+0258U,Ai psor
+0258U,psor mrna
+0258U,mrna 50-100
+0258U,50-100 gen
+0258U,gen alg
+0258U,50-100 Ai psor mrna gen alg
+0260U,Rare ds id opt genome mapg
+0260U,Rare ds
+0260U,ds id
+0260U,id opt
+0260U,opt genome
+0260U,genome mapg
+0260U,genome ds id Rare mapg opt
+0261U,Onc clrct ca img alys w/ai
+0261U,Onc clrct
+0261U,clrct ca
+0261U,ca img
+0261U,img alys
+0261U,alys w/ai
+0261U,img alys ca Onc w/ai clrct
+0262U ,Onc sld tum rtpcr 7 gen
+0262U ,Onc sld
+0262U ,sld tum
+0262U ,tum rtpcr
+0262U ,rtpcr 7
+0262U ,7 gen
+0262U ,tum gen rtpcr sld Onc 7
+0264U,Rare ds id opt genome mapg
+0264U,Rare ds
+0264U,ds id
+0264U,id opt
+0264U,opt genome
+0264U,genome mapg
+0264U,opt Rare ds mapg id genome
+0265U ,Rar do whl gnmtcdrl dna als
+0265U ,Rar do
+0265U ,do whl
+0265U ,whl gnmtcdrl
+0265U ,gnmtcdrl dna
+0265U ,dna als
+0265U ,als gnmtcdrl do whl Rar dna
+0266U,Unxpl cnst hrtbl do gn xprsn
+0266U,Unxpl cnst
+0266U,cnst hrtbl
+0266U,hrtbl do
+0266U,do gn
+0266U,gn xprsn
+0266U,cnst xprsn Unxpl hrtbl do gn
+0267U,Rare do id opt gen mapgseq
+0267U,Rare do
+0267U,do id
+0267U,id opt
+0267U,opt gen
+0267U,gen mapgseq
+0267U,opt mapgseq do Rare id gen
+0268U ,Hem ahus gen seq alys 15 gen
+0268U ,Hem ahus
+0268U ,ahus gen
+0268U ,gen seq
+0268U ,seq alys
+0268U ,alys 15
+0268U ,15 gen
+0268U ,seq ahus gen Hem alys 15 gen
+0269U ,Hem aut dm cgen trmbctpna 14
+0269U ,Hem aut
+0269U ,aut dm
+0269U ,dm cgen
+0269U ,cgen trmbctpna
+0269U ,trmbctpna 14
+0269U ,dm Hem 14 aut cgen trmbctpna
+0270U,Hem cgen coagj do 20 genes
+0270U,Hem cgen
+0270U,cgen coagj
+0270U,coagj do
+0270U,do 20
+0270U,20 genes
+0270U,20 Hem coagj genes do cgen
+0271U,Hem cgen neutropenia 23 gen
+0271U,Hem cgen
+0271U,cgen neutropenia
+0271U,neutropenia 23
+0271U,23 gen
+0271U,neutropenia cgen Hem gen 23
+0272U,Hem genetic bld do 51 genes
+0272U,Hem genetic
+0272U,genetic bld
+0272U,bld do
+0272U,do 51
+0272U,51 genes
+0272U,genes genetic Hem 51 bld do
+0273U,Hem gen hyprfibrnlysis 8 gen
+0273U,Hem gen
+0273U,gen hyprfibrnlysis
+0273U,hyprfibrnlysis 8
+0273U,8 gen
+0273U,8 Hem hyprfibrnlysis gen gen
+0274U,Hem gen pltlt do 43 genes
+0274U,Hem gen
+0274U,gen pltlt
+0274U,pltlt do
+0274U,do 43
+0274U,43 genes
+0274U,genes gen pltlt Hem do 43
+0276U,Hem inh thrombocytopenia 42
+0276U,Hem inh
+0276U,inh thrombocytopenia
+0276U,thrombocytopenia 42
+0276U,inh Hem 42 thrombocytopenia
+0277U ,Hem gen pltlt funcj do 31
+0277U ,Hem gen
+0277U ,gen pltlt
+0277U ,pltlt funcj
+0277U ,funcj do
+0277U ,do 31
+0277U ,Hem funcj pltlt 31 do gen
+0278U,Hem gen thrombosis 12 genes
+0278U,Hem gen
+0278U,gen thrombosis
+0278U,thrombosis 12
+0278U,12 genes
+0278U,Hem 12 genes gen thrombosis
+0282U,Rbc dna gntyp 12 bld grp gen
+0282U,Rbc dna
+0282U,dna gntyp
+0282U,gntyp 12
+0282U,12 bld
+0282U,bld grp
+0282U,grp gen
+0282U,grp gntyp bld Rbc 12 gen dna
+0287U,Onc thyr dnamrna 112 genes
+0287U,Onc thyr
+0287U,thyr dnamrna
+0287U,dnamrna 112
+0287U,112 genes
+0287U,genes 112 dnamrna Onc thyr
+0288U,Onc lung mrna quan pcr 113
+0288U,Onc lung
+0288U,lung mrna
+0288U,mrna quan
+0288U,quan pcr
+0288U,pcr 113
+0288U,mrna 113 pcr lung quan Onc
+0305U,Hem rbc fncltydfrm shr strs
+0305U,Hem rbc
+0305U,rbc fncltydfrm
+0305U,fncltydfrm shr
+0305U,shr strs
+0305U,strs shr rbc Hem fncltydfrm
+0306U,Onc mrd nxt-gnrj alys 1st
+0306U,Onc mrd
+0306U,mrd nxt-gnrj
+0306U,nxt-gnrj alys
+0306U,alys 1st
+0306U,Onc nxt-gnrj alys mrd 1st
+0307U,Onc mrd nxt-gnrj alys sbsq
+0307U,Onc mrd
+0307U,mrd nxt-gnrj
+0307U,nxt-gnrj alys
+0307U,alys sbsq
+0307U,Onc mrd sbsq alys nxt-gnrj
+0313U,Onc pncrs dnamrna seq 74
+0313U,Onc pncrs
+0313U,pncrs dnamrna
+0313U,dnamrna seq
+0313U,seq 74
+0313U,seq dnamrna pncrs 74 Onc
+0314U,Onc cutan mlnma mrna 35 gene
+0314U,Onc cutan
+0314U,cutan mlnma
+0314U,mlnma mrna
+0314U,mrna 35
+0314U,35 gene
+0314U,35 Onc mlnma cutan gene mrna
+0315U,Onc cutan sq cll ca mrna 40
+0315U,Onc cutan
+0315U,cutan sq
+0315U,sq cll
+0315U,cll ca
+0315U,ca mrna
+0315U,mrna 40
+0315U,cll Onc cutan sq mrna ca 40
+0317U,Onc lung ca 4-prb fish assay
+0317U,Onc lung
+0317U,lung ca
+0317U,ca 4-prb
+0317U,4-prb fish
+0317U,fish assay
+0317U,4-prb Onc ca fish lung assay
+0318U,Ped whl gen mthyltn alys 50
+0318U,Ped whl
+0318U,whl gen
+0318U,gen mthyltn
+0318U,mthyltn alys
+0318U,alys 50
+0318U,Ped 50 alys mthyltn whl gen
+0332U,Onc pan tum gen prflg 8 dna
+0332U,Onc pan
+0332U,pan tum
+0332U,tum gen
+0332U,gen prflg
+0332U,prflg 8
+0332U,8 dna
+0332U,pan dna 8 prflg gen tum Onc
+0334U,Onc sld orgn tgsa dna 84/
+0334U,Onc sld
+0334U,sld orgn
+0334U,orgn tgsa
+0334U,tgsa dna
+0334U,dna 84/
+0334U,sld 84/ dna tgsa Onc orgn
+0335U,Rare ds whl gen seq feta
+0335U,Rare ds
+0335U,ds whl
+0335U,whl gen
+0335U,gen seq
+0335U,seq feta
+0335U,feta Rare ds seq whl gen
+0336U,Rare ds whl gen seq bld/slv
+0336U,Rare ds
+0336U,ds whl
+0336U,whl gen
+0336U,gen seq
+0336U,seq bld/slv
+0336U,bld/slv gen Rare ds seq whl
+36415,Routine venipuncture
+36415,venipuncture Routine
+78110,Plasma volume single
+78110,Plasma volume
+78110,volume single
+78110,single volume Plasma
+78111,Plasma volume multiple
+78111,Plasma volume
+78111,volume multiple
+78111,volume multiple Plasma
+78120,Red cell mass single
+78120,Red cell
+78120,cell mass
+78120,mass single
+78120,mass single cell Red
+78121,Red cell mass multiple
+78121,Red cell
+78121,cell mass
+78121,mass multiple
+78121,cell multiple Red mass
+78122,Blood volume
+78130,Red cell survival study
+78130,Red cell
+78130,cell survival
+78130,survival study
+78130,study survival Red cell
+78191,Platelet survival
+78191,survival Platelet
+78267,Breath tst attain/anal c-14
+78267,Breath tst
+78267,tst attain/anal
+78267,attain/anal c-14
+78267,tst Breath attain/anal c-14
+78268,Breath test analysis c-14
+78268,Breath test
+78268,test analysis
+78268,analysis c-14
+78268,c-14 Breath test analysis
+78725,Kidney function study
+78725,Kidney function
+78725,function study
+78725,study Kidney function
+C9803,Hopd covid-19 spec collect
+C9803,Hopd covid-19
+C9803,covid-19 spec
+C9803,spec collect
+C9803,collect spec covid-19 Hopd
+G0027,Semen analysis 
+G0027,Semen analysis
+G0027,analysis Semen
+G0103,Psa screening
+G0103,screening Psa
+G0123,Screen cerv/vag thin layer
+G0123,Screen cerv/vag
+G0123,cerv/vag thin
+G0123,thin layer
+G0123,thin cerv/vag layer Screen
+G0124,Screen c/v thin layer by MD
+G0124,Screen c/v
+G0124,c/v thin
+G0124,thin layer
+G0124,layer by
+G0124,by MD
+G0124,Screen MD layer c/v by thin
+G0141,"Scr c/v cyto,autosys and md"
+G0141,Scr c/v
+G0141,"c/v cyto,autosys"
+G0141,"cyto,autosys and"
+G0141,and md
+G0141,"Scr cyto,autosys and md c/v"
+G0143,"Scr c/v cyto,thinlayer,rescr"
+G0143,Scr c/v
+G0143,"c/v cyto,thinlayer,rescr"
+G0143,"cyto,thinlayer,rescr Scr c/v"
+G0144,"Scr c/v cyto,thinlayer,rescr"
+G0144,Scr c/v
+G0144,"c/v cyto,thinlayer,rescr"
+G0145 ,"Scr c/v cyto,thinlayer,rescr"
+G0145 ,Scr c/v
+G0145 ,"c/v cyto,thinlayer,rescr"
+G0147,"Scr c/v cyto, automated sys"
+G0147,Scr c/v
+G0147,"c/v cyto,"
+G0147,"cyto, automated"
+G0147,automated sys
+G0147,"automated c/v Scr cyto, sys"
+G0148,"Scr c/v cyto, autosys, rescr"
+G0148,Scr c/v
+G0148,"c/v cyto,"
+G0148,"cyto, autosys,"
+G0148,"autosys, rescr"
+G0148,"rescr c/v Scr autosys, cyto,"
+G0306,CBC/diffwbc w/o platelet
+G0306,CBC/diffwbc w/o
+G0306,w/o platelet
+G0307,Cbc without platelet 
+G0307,Cbc without
+G0307,without platelet
+G0307,Cbc without platelet
+G0328,Fecal blood scrn immunoassay
+G0328,Fecal blood
+G0328,blood scrn
+G0328,scrn immunoassay
+G0328,immunoassay Fecal scrn blood
+G0416,"Prostate biopsy, any mthd"
+G0416,"Prostate biopsy,"
+G0416,"biopsy, any"
+G0416,any mthd
+G0416,"mthd Prostate biopsy, any"
+G0432,Eia hiv-1/hiv-2 screen
+G0432,Eia hiv-1/hiv-2
+G0432,hiv-1/hiv-2 screen
+G0432,hiv-1/hiv-2 Eia screen
+G0433,Elisa hiv-1/hiv-2 screen
+G0433,Elisa hiv-1/hiv-2
+G0433,hiv-1/hiv-2 screen
+G0433,screen hiv-1/hiv-2 Elisa
+G0435,Oral hiv-1/hiv-2 screen
+G0435,Oral hiv-1/hiv-2
+G0435,hiv-1/hiv-2 screen
+G0435,hiv-1/hiv-2 screen Oral
+G0475 ,Hiv combination assay 
+G0475 ,Hiv combination
+G0475 ,combination assay
+G0475 ,assay combination Hiv
+G0476,Hpv combo assay ca screen
+G0476,Hpv combo
+G0476,combo assay
+G0476,assay ca
+G0476,ca screen
+G0476,ca assay screen combo Hpv
+G2023,Specimen collect covid-19
+G2023,Specimen collect
+G2023,collect covid-19
+G2023,covid-19 collect Specimen
+G2024,Spec coll snf/lab covid-19
+G2024,Spec coll
+G2024,coll snf/lab
+G2024,snf/lab covid-19
+G2024,Spec covid-19 snf/lab coll
+G9143,Warfarin respon genetic test
+G9143,Warfarin respon
+G9143,respon genetic
+G9143,genetic test
+G9143,test respon genetic Warfarin
+P2028,Cephalin floculation test
+P2028,Cephalin floculation
+P2028,floculation test
+P2029,Congo red blood test
+P2029,Congo red
+P2029,red blood
+P2029,blood test
+P2029,test blood Congo red
+P2033,Blood thymol turbidity 
+P2033,Blood thymol
+P2033,thymol turbidity
+P2033,Blood thymol turbidity
+P2038,Blood mucoprotein
+P3000,Screen pap by tech w md supv
+P3000,Screen pap
+P3000,pap by
+P3000,by tech
+P3000,tech w
+P3000,w md
+P3000,md supv
+P3000,by md pap supv Screen w tech
+P3001,Screening pap smear by phys
+P3001,Screening pap
+P3001,pap smear
+P3001,smear by
+P3001,by phys
+P3001,Screening pap by smear phys
+P9612,Catheterize for urine spec
+P9612,Catheterize for
+P9612,for urine
+P9612,urine spec
+P9612,for urine spec Catheterize
+P9615,Urine specimen collect mult 
+P9615,Urine specimen
+P9615,specimen collect
+P9615,collect mult
+P9615,Urine mult collect specimen
+Q0111,Wet mounts/ w preparations
+Q0111,Wet mounts/
+Q0111,mounts/ w
+Q0111,w preparations
+Q0111,Wet mounts/ preparations w
+Q0112,Potassium hydroxide preps
+Q0112,Potassium hydroxide
+Q0112,hydroxide preps
+Q0112,preps hydroxide Potassium
+Q0113,Pinworm examinations
+Q0114,Fern test
+Q0114,test Fern
+Q0115,Post-coital mucous exam
+Q0115,Post-coital mucous
+Q0115,mucous exam
+Q0115,mucous Post-coital exam
+U0001,2019-ncov diagnostic p
+U0001,2019-ncov diagnostic
+U0001,diagnostic p
+U0001,diagnostic 2019-ncov p
+U0002,Covid-19 lab test non-cdc
+U0002,Covid-19 lab
+U0002,lab test
+U0002,test non-cdc
+U0002,Covid-19 lab non-cdc test
+U0003 ,Cov-19 amp prb hgh thruput
+U0003 ,Cov-19 amp
+U0003 ,amp prb
+U0003 ,prb hgh
+U0003 ,hgh thruput
+U0003 ,prb amp thruput Cov-19 hgh
+U0004,Cov-19 test non-cdc hgh thru
+U0004,Cov-19 test
+U0004,test non-cdc
+U0004,non-cdc hgh
+U0004,hgh thru
+U0004,test Cov-19 hgh non-cdc thru
+U0005,Infec agen detec ampli probe
+U0005,Infec agen
+U0005,agen detec
+U0005,detec ampli
+U0005,ampli probe
+U0005,detec ampli Infec agen probe
+90901,Biofeedback train any meth
+90901,Biofeedback train
+90901,train any
+90901,any meth
+90901,meth train Biofeedback any
+90912,Bfb training 1st 15 min
+90912,Bfb training
+90912,training 1st
+90912,1st 15
+90912,15 min
+90912,min training Bfb 1st 15
+90913,Bfb training ea addl 15 min
+90913,Bfb training
+90913,training ea
+90913,ea addl
+90913,addl 15
+90913,15 min
+90913,addl min 15 training Bfb ea
+92507,Speech/hearing therapy
+92508,Speech/hearing therapy
+92520,Laryngeal function studies
+92520,Laryngeal function
+92520,function studies
+92520,function Laryngeal studies
+92521,Evaluation of speech fluency
+92521,Evaluation of
+92521,of speech
+92521,speech fluency
+92521,Evaluation speech of fluency
+92522,Evaluate speech production
+92522,Evaluate speech
+92522,speech production
+92522,speech production Evaluate
+92523,Speech sound lang comprehen
+92523,Speech sound
+92523,sound lang
+92523,lang comprehen
+92524,Behavral qualit analys voice
+92524,Behavral qualit
+92524,qualit analys
+92524,analys voice
+92524,analys Behavral voice qualit
+92526,Oral function therapy
+92526,Oral function
+92526,function therapy
+92526,therapy Oral function
+92597,Oral speech device eval
+92597,Oral speech
+92597,speech device
+92597,device eval
+92597,device Oral speech eval
+92607,Ex for speech device rx 1hr
+92607,Ex for
+92607,for speech
+92607,speech device
+92607,device rx
+92607,rx 1hr
+92607,speech rx device 1hr Ex for
+92608,Ex for speech device rx addl
+92608,Ex for
+92608,for speech
+92608,speech device
+92608,device rx
+92608,rx addl
+92608,for rx device addl Ex speech
+92609,Use of speech device service
+92609,Use of
+92609,of speech
+92609,speech device
+92609,device service
+92609,Use device of service speech
+92610,Evaluate swallowing function
+92610,Evaluate swallowing
+92610,swallowing function
+92610,function Evaluate swallowing
+92611,Motion fluoroscopy/swallow
+92611,fluoroscopy/swallow Motion
+92612,Endoscopy swallow tst (fees)
+92612,Endoscopy swallow
+92612,swallow tst
+92612,tst (fees)
+92612,(fees) tst swallow Endoscopy
+92614,Laryngoscopic sensory test
+92614,Laryngoscopic sensory
+92614,sensory test
+92614,Laryngoscopic test sensory
+92616,Fees w/laryngeal sense test
+92616,Fees w/laryngeal
+92616,w/laryngeal sense
+92616,sense test
+93797,Cardiac rehab
+93798,Cardiac rehab/monitor
+93798,rehab/monitor Cardiac
+95851,Range of motion measurements
+95851,Range of
+95851,of motion
+95851,motion measurements
+95851,measurements motion Range of
+95852,Range of motion measurements
+95852,Range of
+95852,of motion
+95852,motion measurements
+95992,Canalith repositioning proc
+95992,Canalith repositioning
+95992,repositioning proc
+95992,proc repositioning Canalith
+96000,Motion analysis video/3d
+96000,Motion analysis
+96000,analysis video/3d
+96001,Motion test w/ft press meas
+96001,Motion test
+96001,test w/ft
+96001,w/ft press
+96001,press meas
+96001,press meas test Motion w/ft
+96002,Dynamic surface emg
+96002,Dynamic surface
+96002,surface emg
+96002,surface Dynamic emg
+96003,Dynamic fine wire emg
+96003,Dynamic fine
+96003,fine wire
+96003,wire emg
+96003,wire fine emg Dynamic
+96105,Assessment of aphasia 
+96105,Assessment of
+96105,of aphasia
+96105,aphasia Assessment of
+96125,Cognitive test by HC pro
+96125,Cognitive test
+96125,test by
+96125,by HC
+96125,HC pro
+96125,Cognitive HC by test pro
+97010,Hot or cold packs therapy
+97010,Hot or
+97010,or cold
+97010,cold packs
+97010,packs therapy
+97010,or therapy cold packs Hot
+97012,Mechanical traction therapy
+97012,Mechanical traction
+97012,traction therapy
+97012,Mechanical therapy traction
+97016,Vasopneumatic device therapy
+97016,Vasopneumatic device
+97016,device therapy
+97016,therapy Vasopneumatic device
+97018,Paraffin bath therapy
+97018,Paraffin bath
+97018,bath therapy
+97018,therapy Paraffin bath
+97022,Whirlpool therapy
+97024,Diathermy eg microwave
+97024,Diathermy eg
+97024,eg microwave
+97026,Infrared therapy
+97026,therapy Infrared
+97028,Ultraviolet therapy
+97028,therapy Ultraviolet
+97032,Electrical stimulation
+97032,stimulation Electrical
+97033,Electric current therapy
+97033,Electric current
+97033,current therapy
+97033,Electric therapy current
+97034,Contrast bath therapy
+97034,Contrast bath
+97034,bath therapy
+97034,bath therapy Contrast
+97035,Ultrasound therapy
+97036,Hydrotherapy
+97039,Physical therapy treatment
+97039,Physical therapy
+97039,therapy treatment
+97110,Therapeutic exercises
+97110,exercises Therapeutic
+97112,Neuromuscular reeducation
+97113,Aquatic therapy/exercises
+97116,Gait training therapy
+97116,Gait training
+97116,training therapy
+97116,therapy training Gait
+97124,Massage therapy
+97129,Ther ivntj 1st 15 min
+97129,Ther ivntj
+97129,ivntj 1st
+97129,1st 15
+97129,15 min
+97129,Ther 1st ivntj 15 min
+97130,Ther ivntj ea addl 15 min
+97130,Ther ivntj
+97130,ivntj ea
+97130,ea addl
+97130,addl 15
+97130,15 min
+97130,Ther 15 min ivntj addl ea
+97139,Physical medicine procedure
+97139,Physical medicine
+97139,medicine procedure
+97139,procedure Physical medicine
+97140,Manual therapy
+97140,therapy Manual
+97150,Group therapeutic procedures
+97150,Group therapeutic
+97150,therapeutic procedures
+97150,procedures therapeutic Group
+97161,Pt eval low complex 20 min
+97161,Pt eval
+97161,eval low
+97161,low complex
+97161,complex 20
+97161,20 min
+97161,Pt complex eval min 20 low
+97162,Pt eval mod complex 30 min
+97162,Pt eval
+97162,eval mod
+97162,mod complex
+97162,complex 30
+97162,30 min
+97162,Pt complex min mod eval 30
+97163,Pt eval high complex 45 min
+97163,Pt eval
+97163,eval high
+97163,high complex
+97163,complex 45
+97163,45 min
+97163,complex min eval high Pt 45
+97164,Pt re-eval est plan care
+97164,Pt re-eval
+97164,re-eval est
+97164,est plan
+97164,plan care
+97164,Pt plan care re-eval est
+97165,Ot eval low complex 30 min
+97165,Ot eval
+97165,eval low
+97165,low complex
+97165,complex 30
+97165,30 min
+97165,complex low 30 min eval Ot
+97166,Ot eval mod complex 45 min
+97166,Ot eval
+97166,eval mod
+97166,mod complex
+97166,complex 45
+97166,45 min
+97166,45 mod Ot complex min eval
+97167,Ot eval high complex 60 min
+97167,Ot eval
+97167,eval high
+97167,high complex
+97167,complex 60
+97167,60 min
+97167,60 complex eval Ot min high
+97168,Ot re-eval est plan care
+97168,Ot re-eval
+97168,re-eval est
+97168,est plan
+97168,plan care
+97168,plan Ot est care re-eval
+97530,Therapeutic activities
+97533,Sensory integration
+97533,integration Sensory
+97535,Self care mngment training
+97535,Self care
+97535,care mngment
+97535,mngment training
+97535,training mngment care Self
+97537,Community/work reintegration
+97537,reintegration Community/work
+97542,Wheelchair mngment training
+97542,Wheelchair mngment
+97542,mngment training
+97545,Work hardening
+97546,Work hardening add-on
+97546,Work hardening
+97546,hardening add-on
+97597,RMVL devital tis 20cm/<
+97597,RMVL devital
+97597,devital tis
+97597,tis 20cm/<
+97597,tis 20cm/< devital RMVL
+97598,RMVL devital tis addl 20 cm<
+97598,RMVL devital
+97598,devital tis
+97598,tis addl
+97598,addl 20
+97598,20 cm<
+97598,20 RMVL addl cm< tis devital
+97602,Wound(s) care non-selective
+97602,Wound(s) care
+97602,care non-selective
+97602,Wound(s) non-selective care
+97605,Neg press wound tx < 50 cm
+97605,Neg press
+97605,press wound
+97605,wound tx
+97605,tx <
+97605,< 50
+97605,50 cm
+97605,cm wound tx press 50 Neg <
+97606,Neg press wound tx > 50 cm
+97606,Neg press
+97606,press wound
+97606,wound tx
+97606,tx >
+97606,> 50
+97606,50 cm
+97606,wound press Neg > 50 tx cm
+97607,Neg press wnd tx </=50 sq cm
+97607,Neg press
+97607,press wnd
+97607,wnd tx
+97607,tx </=50
+97607,</=50 sq
+97607,sq cm
+97607,tx press wnd </=50 Neg sq cm
+97608,Neg press wound tx >50 cm
+97608,Neg press
+97608,press wound
+97608,wound tx
+97608,tx >50
+97608,>50 cm
+97608,Neg tx wound >50 cm press
+97610,Low frequency non-thermal US
+97610,Low frequency
+97610,frequency non-thermal
+97610,non-thermal US
+97610,non-thermal Low frequency US
+97750,Physical performance test
+97750,Physical performance
+97750,performance test
+97750,Physical test performance
+97755,Assistive technology assess
+97755,Assistive technology
+97755,technology assess
+97755,assess technology Assistive
+97760,Orthotic mgmttrainj 1st enc 
+97760,Orthotic mgmttrainj
+97760,mgmttrainj 1st
+97760,1st enc
+97760,1st enc mgmttrainj Orthotic
+97761,Prosthetic trainj 1st enc
+97761,Prosthetic trainj
+97761,trainj 1st
+97761,1st enc
+97761,1st enc trainj Prosthetic
+97763,Orth/prostc mgmt sbsq enc
+97763,Orth/prostc mgmt
+97763,mgmt sbsq
+97763,sbsq enc
+97763,enc Orth/prostc sbsq mgmt
+97799,Physical medicine procedure
+97799,Physical medicine
+97799,medicine procedure
+97799,medicine procedure Physical
+98966,Hc pro phone call 5-10 min
+98966,Hc pro
+98966,pro phone
+98966,phone call
+98966,call 5-10
+98966,5-10 min
+98966,call min pro phone Hc 5-10
+98967,Hc pro phone call 11-20 min
+98967,Hc pro
+98967,pro phone
+98967,phone call
+98967,call 11-20
+98967,11-20 min
+98967,phone min Hc 11-20 pro call
+98968,Hc pro phone call 21-30 min
+98968,Hc pro
+98968,pro phone
+98968,phone call
+98968,call 21-30
+98968,21-30 min
+98968,min Hc call pro phone 21-30
+98970,Qnhp ol dig assmtmgmt 5-10
+98970,Qnhp ol
+98970,ol dig
+98970,dig assmtmgmt
+98970,assmtmgmt 5-10
+98970,Qnhp ol 5-10 assmtmgmt dig
+98971,Qnhp ol dig assmtmgmt 11-20 
+98971,Qnhp ol
+98971,ol dig
+98971,dig assmtmgmt
+98971,assmtmgmt 11-20
+98971,11-20 dig ol assmtmgmt Qnhp
+98972,Qnhp ol dig assmtmgmt 21
+98972,Qnhp ol
+98972,ol dig
+98972,dig assmtmgmt
+98972,assmtmgmt 21
+98972,assmtmgmt ol dig 21 Qnhp
+98975,Rem ther mntr 1st setupedu
+98975,Rem ther
+98975,ther mntr
+98975,mntr 1st
+98975,1st setupedu
+98975,1st mntr setupedu ther Rem
+98976,Rem ther mntr dev sply resp
+98976,Rem ther
+98976,ther mntr
+98976,mntr dev
+98976,dev sply
+98976,sply resp
+98976,Rem dev sply resp mntr ther
+98977,Rem ther mntr dv sply mscskl
+98977,Rem ther
+98977,ther mntr
+98977,mntr dv
+98977,dv sply
+98977,sply mscskl
+98977,ther sply Rem dv mntr mscskl
+98980,Rem ther mntr 1st 20 min
+98980,Rem ther
+98980,ther mntr
+98980,mntr 1st
+98980,1st 20
+98980,20 min
+98980,ther Rem 20 mntr 1st min
+98981,Rem ther mntr ea addl 20 min
+98981,Rem ther
+98981,ther mntr
+98981,mntr ea
+98981,ea addl
+98981,addl 20
+98981,20 min
+98981,mntr ther min Rem ea 20 addl
+G0281,Elec stim unattend for press
+G0281,Elec stim
+G0281,stim unattend
+G0281,unattend for
+G0281,for press
+G0281,stim press Elec unattend for
+G0283,Elec stim other than wound
+G0283,Elec stim
+G0283,stim other
+G0283,other than
+G0283,than wound
+G0283,wound than other Elec stim
+G0329,Electromagntic tx for ulcers
+G0329,Electromagntic tx
+G0329,tx for
+G0329,for ulcers
+G0329,for ulcers Electromagntic tx
+G0451,Development test interp  rep
+G0451,Development test
+G0451,test interp
+G0451,interp rep
+G0451,Development test interp rep
+G2250,"Remot img sub by pt, non e/m"
+G2250,Remot img
+G2250,img sub
+G2250,sub by
+G2250,"by pt,"
+G2250,"pt, non"
+G2250,non e/m
+G2250,"sub by pt, non img e/m Remot"
+G2251,"Brief chkin, 5-10, non-e/m"
+G2251,"Brief chkin,"
+G2251,"chkin, 5-10,"
+G2251,"5-10, non-e/m"
+G2251,"chkin, 5-10, Brief non-e/m"
+0042T,Ct perfusion w/contrast cbf
+0042T,Ct perfusion
+0042T,perfusion w/contrast
+0042T,w/contrast cbf
+0042T,w/contrast perfusion Ct cbf
+0174T,Cad cxr with interp
+0174T,Cad cxr
+0174T,cxr with
+0174T,with interp
+0174T,Cad cxr interp with
+0175T,Cad cxr remote
+0175T,Cad cxr
+0175T,cxr remote
+0175T,cxr Cad remote
+0330T,Tear film img uni/bi w/ir
+0330T,Tear film
+0330T,film img
+0330T,img uni/bi
+0330T,uni/bi w/ir
+0330T,film w/ir img Tear uni/bi
+0331T,Heart symp image plnr
+0331T,Heart symp
+0331T,symp image
+0331T,image plnr
+0332T,Heart symp image plnr spect
+0332T,Heart symp
+0332T,symp image
+0332T,image plnr
+0332T,plnr spect
+0332T,Heart image plnr spect symp
+0422T,Tactile breast img uni/bi
+0422T,Tactile breast
+0422T,breast img
+0422T,img uni/bi
+0422T,breast uni/bi Tactile img
+0508T  ,Pls echo us b1 dns meas tib
+0508T  ,Pls echo
+0508T  ,echo us
+0508T  ,us b1
+0508T  ,b1 dns
+0508T  ,dns meas
+0508T  ,meas tib
+0508T  ,Pls us meas dns b1 echo tib
+0558T,Ct scan f/biomchn ct alys
+0558T,Ct scan
+0558T,scan f/biomchn
+0558T,f/biomchn ct
+0558T,ct alys
+0558T,alys ct f/biomchn scan Ct
+0633T,Ct breast w/3d uni c-
+0633T,Ct breast
+0633T,breast w/3d
+0633T,w/3d uni
+0633T,uni c-
+0633T,Ct uni w/3d c- breast
+0634T,Ct breast w/3d uni c
+0634T,Ct breast
+0634T,breast w/3d
+0634T,w/3d uni
+0634T,uni c
+0634T,c uni Ct w/3d breast
+0635T,Ct breast w/3d uni c-/c
+0635T,Ct breast
+0635T,breast w/3d
+0635T,w/3d uni
+0635T,uni c-/c
+0635T,Ct w/3d uni breast c-/c
+0636T,Ct breast w/3d bi c-
+0636T,Ct breast
+0636T,breast w/3d
+0636T,w/3d bi
+0636T,bi c-
+0636T,Ct w/3d breast bi c-
+0637T,Ct breast w/3d bi c
+0637T,Ct breast
+0637T,breast w/3d
+0637T,w/3d bi
+0637T,bi c
+0637T,breast bi w/3d c Ct
+0638T,Ct breast w/3d bi c-/c
+0638T,Ct breast
+0638T,breast w/3d
+0638T,w/3d bi
+0638T,bi c-/c
+0638T,c-/c bi w/3d breast Ct
+0721T,Quan ct tiss charac w/o ct
+0721T,Quan ct
+0721T,ct tiss
+0721T,tiss charac
+0721T,charac w/o
+0721T,w/o ct
+0721T,Quan tiss charac ct ct w/o
+0722T,Quan ct tiss charac w/ct
+0722T,Quan ct
+0722T,ct tiss
+0722T,tiss charac
+0722T,charac w/ct
+0722T,ct tiss Quan charac w/ct
+0723T,Qmrcp w/o dx mri sm anat ses
+0723T,Qmrcp w/o
+0723T,w/o dx
+0723T,dx mri
+0723T,mri sm
+0723T,sm anat
+0723T,anat ses
+0723T,dx ses sm mri anat Qmrcp w/o
+0724T,Qmrcp w/dx mri same anatomy
+0724T,Qmrcp w/dx
+0724T,w/dx mri
+0724T,mri same
+0724T,same anatomy
+0724T,same anatomy Qmrcp mri w/dx
+51798,Us urine capacity measure
+51798,Us urine
+51798,urine capacity
+51798,capacity measure
+51798,urine capacity measure Us
+70100,X-ray exam of jaw
+70100,X-ray exam
+70100,exam of
+70100,of jaw
+70100,exam of X-ray jaw
+70110,X-ray exam of jaw
+70110,X-ray exam
+70110,exam of
+70110,of jaw
+70110,X-ray jaw exam of
+70120,X-ray exam of mastoids
+70120,X-ray exam
+70120,exam of
+70120,of mastoids
+70120,of X-ray exam mastoids
+70130,X-ray exam of mastoids
+70130,X-ray exam
+70130,exam of
+70130,of mastoids
+70130,mastoids of X-ray exam
+70134,X-ray exam of middle ear
+70134,X-ray exam
+70134,exam of
+70134,of middle
+70134,middle ear
+70134,exam X-ray ear of middle
+70140,X-ray exam of facial bones
+70140,X-ray exam
+70140,exam of
+70140,of facial
+70140,facial bones
+70140,X-ray of exam facial bones
+70150,X-ray exam of facial bones
+70150,X-ray exam
+70150,exam of
+70150,of facial
+70150,facial bones
+70150,facial X-ray exam of bones
+70160,X-ray exam of nasal bones
+70160,X-ray exam
+70160,exam of
+70160,of nasal
+70160,nasal bones
+70160,X-ray bones exam of nasal
+70190,X-ray exam of eye sockets
+70190,X-ray exam
+70190,exam of
+70190,of eye
+70190,eye sockets
+70190,X-ray sockets exam of eye
+70200,X-ray exam of eye sockets
+70200,X-ray exam
+70200,exam of
+70200,of eye
+70200,eye sockets
+70200,eye of exam sockets X-ray
+70210,X-ray exam of sinuses
+70210,X-ray exam
+70210,exam of
+70210,of sinuses
+70210,X-ray exam sinuses of
+70220,X-ray exam of sinuses
+70220,X-ray exam
+70220,exam of
+70220,of sinuses
+70220,of sinuses X-ray exam
+70240,X-ray exam pituitary saddle
+70240,X-ray exam
+70240,exam pituitary
+70240,pituitary saddle
+70240,saddle pituitary X-ray exam
+70250,X-ray exam of skull
+70250,X-ray exam
+70250,exam of
+70250,of skull
+70250,X-ray skull of exam
+70260,X-ray exam of skull
+70260,X-ray exam
+70260,exam of
+70260,of skull
+70260,skull of exam X-ray
+70300,X-ray exam of teeth
+70300,X-ray exam
+70300,exam of
+70300,of teeth
+70300,X-ray of teeth exam
+70310,X-ray exam of teeth
+70310,X-ray exam
+70310,exam of
+70310,of teeth
+70310,X-ray of teeth exam
+70320,Full mouth x-ray of teeth
+70320,Full mouth
+70320,mouth x-ray
+70320,x-ray of
+70320,of teeth
+70320,mouth of x-ray teeth Full
+70328,X-ray exam of jaw joint
+70328,X-ray exam
+70328,exam of
+70328,of jaw
+70328,jaw joint
+70328,of joint X-ray exam jaw
+70330,X-ray exam of jaw joints
+70330,X-ray exam
+70330,exam of
+70330,of jaw
+70330,jaw joints
+70330,of joints jaw X-ray exam
+70336,Magnetic image jaw joint
+70336,Magnetic image
+70336,image jaw
+70336,jaw joint
+70336,joint Magnetic jaw image
+70350,X-ray head for orthodontia
+70350,X-ray head
+70350,head for
+70350,for orthodontia
+70350,orthodontia for X-ray head
+70355,Panoramic x-ray of jaws
+70355,Panoramic x-ray
+70355,x-ray of
+70355,of jaws
+70355,of x-ray Panoramic jaws
+70360,X-ray exam of neck
+70360,X-ray exam
+70360,exam of
+70360,of neck
+70360,neck X-ray exam of
+70370,Throat x-ray  fluoroscopy
+70370,Throat x-ray
+70370,x-ray fluoroscopy
+70370,x-ray Throat fluoroscopy
+70371,Speech evaluation complex
+70371,Speech evaluation
+70371,evaluation complex
+70371,complex Speech evaluation
+70380,X-ray exam of salivary gland
+70380,X-ray exam
+70380,exam of
+70380,of salivary
+70380,salivary gland
+70380,gland exam X-ray of salivary
+70450,Ct head/brain w/o dye
+70450,Ct head/brain
+70450,head/brain w/o
+70450,w/o dye
+70450,w/o head/brain dye Ct
+70460,Ct head/brain w/dye
+70460,Ct head/brain
+70460,head/brain w/dye
+70460,head/brain Ct w/dye
+70470,Ct head/brain w/o  w/dye
+70470,Ct head/brain
+70470,head/brain w/o
+70470,w/o w/dye
+70470,w/dye w/o Ct head/brain
+70480,Ct orbit/ear/fossa w/o dye
+70480,Ct orbit/ear/fossa
+70480,orbit/ear/fossa w/o
+70480,w/o dye
+70480,w/o Ct orbit/ear/fossa dye
+70481,Ct orbit/ear/fossa w/dye 
+70481,Ct orbit/ear/fossa
+70481,orbit/ear/fossa w/dye
+70481,orbit/ear/fossa Ct w/dye
+70482,Ct orbit/ear/fossa w/ow/dye
+70482,Ct orbit/ear/fossa
+70482,orbit/ear/fossa w/ow/dye
+70486,Ct maxillofacial w/o dye
+70486,Ct maxillofacial
+70486,maxillofacial w/o
+70486,w/o dye
+70486,Ct dye maxillofacial w/o
+70487,Ct maxillofacial w/dye
+70487,Ct maxillofacial
+70487,maxillofacial w/dye
+70487,Ct w/dye maxillofacial
+70488,Ct maxillofacial w/o  w/dye
+70488,Ct maxillofacial
+70488,maxillofacial w/o
+70488,w/o w/dye
+70488,maxillofacial Ct w/dye w/o
+70490,Ct soft tissue neck w/o dye
+70490,Ct soft
+70490,soft tissue
+70490,tissue neck
+70490,neck w/o
+70490,w/o dye
+70490,Ct tissue w/o dye neck soft
+70491,Ct soft tissue neck w/dye
+70491,Ct soft
+70491,soft tissue
+70491,tissue neck
+70491,neck w/dye
+70491,tissue Ct w/dye soft neck
+70492,Ct sft tsue nck w/o  w/dye
+70492,Ct sft
+70492,sft tsue
+70492,tsue nck
+70492,nck w/o
+70492,w/o w/dye
+70492,w/o nck Ct tsue sft w/dye
+70496,Ct angiography head
+70496,Ct angiography
+70496,angiography head
+70498,Ct angiography neck
+70498,Ct angiography
+70498,angiography neck
+70498,neck angiography Ct
+70540,Mri orbit/face/neck w/o dye
+70540,Mri orbit/face/neck
+70540,orbit/face/neck w/o
+70540,w/o dye
+70540,Mri dye orbit/face/neck w/o
+70542,Mri orbit/face/neck w/dye
+70542,Mri orbit/face/neck
+70542,orbit/face/neck w/dye
+70543,Mri orbt/fac/nck w/o  w/dye
+70543,Mri orbt/fac/nck
+70543,orbt/fac/nck w/o
+70543,w/o w/dye
+70543,w/dye w/o orbt/fac/nck Mri
+70544,Mr angiography head w/o dye
+70544,Mr angiography
+70544,angiography head
+70544,head w/o
+70544,w/o dye
+70544,angiography dye Mr head w/o
+70545,Mr angiography head w/dye
+70545,Mr angiography
+70545,angiography head
+70545,head w/dye
+70545,head w/dye Mr angiography
+70546,Mr angiograph head w/ow/dye
+70546,Mr angiograph
+70546,angiograph head
+70546,head w/ow/dye
+70546,head Mr w/ow/dye angiograph
+70547,Mr angiography neck w/o dye
+70547,Mr angiography
+70547,angiography neck
+70547,neck w/o
+70547,w/o dye
+70547,Mr neck dye w/o angiography
+70548,Mr angiography neck w/dye
+70548,Mr angiography
+70548,angiography neck
+70548,neck w/dye
+70548,angiography neck w/dye Mr
+70549,Mr angiograph neck w/ow/dye
+70549,Mr angiograph
+70549,angiograph neck
+70549,neck w/ow/dye
+70551,Mri brain w/o dye
+70551,Mri brain
+70551,brain w/o
+70551,w/o dye
+70551,brain w/o dye Mri
+70552,Mri brain w/dye
+70552,Mri brain
+70552,brain w/dye
+70552,w/dye Mri brain
+70553,Mri brain w/o  w/dye 
+70553,Mri brain
+70553,brain w/o
+70553,w/o w/dye
+70553,w/o Mri w/dye brain
+70554,Fmri brain by tech
+70554,Fmri brain
+70554,brain by
+70554,by tech
+70554,brain by tech Fmri
+70555,Fmri brain by phys/psych
+70555,Fmri brain
+70555,brain by
+70555,by phys/psych
+70555,Fmri phys/psych by brain
+71045,X-ray exam chest 1 view
+71045,X-ray exam
+71045,exam chest
+71045,chest 1
+71045,1 view
+71046,X-ray exam chest 2 views
+71046,X-ray exam
+71046,exam chest
+71046,chest 2
+71046,2 views
+71046,X-ray chest views exam 2
+71047,X-ray exam chest 3 views
+71047,X-ray exam
+71047,exam chest
+71047,chest 3
+71047,3 views
+71047,views chest 3 X-ray exam
+71048,X-ray exam chest 4 views
+71048,X-ray exam
+71048,exam chest
+71048,chest 4
+71048,4 views
+71048,chest views 4 exam X-ray
+71100,X-ray exam of ribs
+71100,X-ray exam
+71100,exam of
+71100,of ribs
+71100,X-ray of exam ribs
+71101,X-ray exam of ribs/chest
+71101,X-ray exam
+71101,exam of
+71101,of ribs/chest
+71101,of ribs/chest X-ray exam
+71110,X-ray exam of ribs
+71110,X-ray exam
+71110,exam of
+71110,of ribs
+71110,exam X-ray of ribs
+71111,X-ray exam of ribs/chest
+71111,X-ray exam
+71111,exam of
+71111,of ribs/chest
+71111,X-ray ribs/chest exam of
+71120,X-ray exam of breastbone
+71120,X-ray exam
+71120,exam of
+71120,of breastbone
+71120,X-ray breastbone exam of
+71130,X-ray exam of breastbone
+71130,X-ray exam
+71130,exam of
+71130,of breastbone
+71130,of breastbone exam X-ray
+71250,Ct thorax dx c- 
+71250,Ct thorax
+71250,thorax dx
+71250,dx c-
+71250,dx thorax c- Ct
+71260,Ct thorax dx c 
+71260,Ct thorax
+71260,thorax dx
+71260,dx c
+71260,dx c Ct thorax
+71270,Ct thorax dx c-/c 
+71270,Ct thorax
+71270,thorax dx
+71270,dx c-/c
+71270,Ct dx thorax c-/c
+71271,Ct thorax lung cancer scr c-
+71271,Ct thorax
+71271,thorax lung
+71271,lung cancer
+71271,cancer scr
+71271,scr c-
+71271,scr thorax c- lung Ct cancer
+71275,Ct angiography chest
+71275,Ct angiography
+71275,angiography chest
+71275,chest angiography Ct
+71550,Mri chest w/o dye
+71550,Mri chest
+71550,chest w/o
+71550,w/o dye
+71550,w/o Mri chest dye
+71551,Mri chest w/dye
+71551,Mri chest
+71551,chest w/dye
+71551,w/dye Mri chest
+71552,Mri chest w/o  w/dye
+71552,Mri chest
+71552,chest w/o
+71552,w/o w/dye
+71552,Mri chest w/o w/dye
+71555,Mri angio chest w or w/o dye
+71555,Mri angio
+71555,angio chest
+71555,chest w
+71555,w or
+71555,or w/o
+71555,w/o dye
+71555,w/o dye w or chest angio Mri
+72020,X-ray exam of spine
+72020,X-ray exam
+72020,exam of
+72020,of spine
+72020,exam X-ray of spine
+72040,X-ray exam neck spine 3/<vws
+72040,X-ray exam
+72040,exam neck
+72040,neck spine
+72040,spine 3/<vws
+72040,spine X-ray exam neck 3/<vws
+72050,X-ray exam of neck spine
+72050,X-ray exam
+72050,exam of
+72050,of neck
+72050,neck spine
+72050,of spine X-ray neck exam
+72052,X-ray exam of neck spine
+72052,X-ray exam
+72052,exam of
+72052,of neck
+72052,neck spine
+72052,spine of X-ray exam neck
+72070,X-ray exam of thoracic spine
+72070,X-ray exam
+72070,exam of
+72070,of thoracic
+72070,thoracic spine
+72070,thoracic exam spine of X-ray
+72072,X-ray exam of thoracic spine
+72072,X-ray exam
+72072,exam of
+72072,of thoracic
+72072,thoracic spine
+72072,thoracic exam of X-ray spine
+72074,X-ray exam of thoracic spine
+72074,X-ray exam
+72074,exam of
+72074,of thoracic
+72074,thoracic spine
+72074,thoracic exam of spine X-ray
+72080,X-ray exam of trunk spine
+72080,X-ray exam
+72080,exam of
+72080,of trunk
+72080,trunk spine
+72080,exam X-ray trunk spine of
+72081,X-ray exam entire spi 1 vw
+72081,X-ray exam
+72081,exam entire
+72081,entire spi
+72081,spi 1
+72081,1 vw
+72081,entire spi 1 exam X-ray vw
+72082,X-ray exam entire spi 2/3 vw
+72082,X-ray exam
+72082,exam entire
+72082,entire spi
+72082,spi 2/3
+72082,2/3 vw
+72082,vw spi entire exam X-ray 2/3
+72083,X-ray exam entire spi 4/5 vw
+72083,X-ray exam
+72083,exam entire
+72083,entire spi
+72083,spi 4/5
+72083,4/5 vw
+72083,vw X-ray spi entire exam 4/5
+72084,X-ray exam entire spi 6/> vw
+72084,X-ray exam
+72084,exam entire
+72084,entire spi
+72084,spi 6/>
+72084,6/> vw
+72084,6/> vw entire X-ray spi exam
+72100,X-ray exam of lower spine
+72100,X-ray exam
+72100,exam of
+72100,of lower
+72100,lower spine
+72100,X-ray lower of exam spine
+72110,X-ray exam of lower spine
+72110,X-ray exam
+72110,exam of
+72110,of lower
+72110,lower spine
+72110,of lower spine X-ray exam
+72114,X-ray exam of lower spine
+72114,X-ray exam
+72114,exam of
+72114,of lower
+72114,lower spine
+72114,of lower exam spine X-ray
+72120,X-ray exam of lower spine
+72120,X-ray exam
+72120,exam of
+72120,of lower
+72120,lower spine
+72120,spine X-ray lower of exam
+72125,Ct neck spine w/o dye
+72125,Ct neck
+72125,neck spine
+72125,spine w/o
+72125,w/o dye
+72125,neck dye spine Ct w/o
+72126,Ct neck spine w/dye
+72126,Ct neck
+72126,neck spine
+72126,spine w/dye
+72126,neck spine Ct w/dye
+72127,Ct neck spine w/o  w/dye
+72127,Ct neck
+72127,neck spine
+72127,spine w/o
+72127,w/o w/dye
+72127,w/dye w/o Ct spine neck
+72128,Ct chest spine w/o dye
+72128,Ct chest
+72128,chest spine
+72128,spine w/o
+72128,w/o dye
+72128,spine chest Ct w/o dye
+72129,Ct chest spine w/dye
+72129,Ct chest
+72129,chest spine
+72129,spine w/dye
+72129,chest Ct w/dye spine
+72130,Ct chest spine w/o  w/dye
+72130,Ct chest
+72130,chest spine
+72130,spine w/o
+72130,w/o w/dye
+72130,Ct w/dye chest w/o spine
+72131,Ct lumbar spine w/o dye
+72131,Ct lumbar
+72131,lumbar spine
+72131,spine w/o
+72131,w/o dye
+72131,lumbar Ct spine dye w/o
+72132,Ct lumbar spine w/dye
+72132,Ct lumbar
+72132,lumbar spine
+72132,spine w/dye
+72132,spine w/dye lumbar Ct
+72133,Ct lumbar spine w/o  w/dye
+72133,Ct lumbar
+72133,lumbar spine
+72133,spine w/o
+72133,w/o w/dye
+72133,lumbar Ct w/dye w/o spine
+72141,Mri neck spine w/o dye
+72141,Mri neck
+72141,neck spine
+72141,spine w/o
+72141,w/o dye
+72141,neck w/o dye Mri spine
+72142,Mri neck spine w/dye
+72142,Mri neck
+72142,neck spine
+72142,spine w/dye
+72142,w/dye neck spine Mri
+72146,Mri chest spine w/o dye
+72146,Mri chest
+72146,chest spine
+72146,spine w/o
+72146,w/o dye
+72146,chest dye Mri w/o spine
+72147,Mri chest spine w/dye
+72147,Mri chest
+72147,chest spine
+72147,spine w/dye
+72147,chest spine Mri w/dye
+72148,Mri lumbar spine w/o dye
+72148,Mri lumbar
+72148,lumbar spine
+72148,spine w/o
+72148,w/o dye
+72148,w/o Mri dye spine lumbar
+72149,Mri lumbar spine w/dye
+72149,Mri lumbar
+72149,lumbar spine
+72149,spine w/dye
+72149,spine w/dye Mri lumbar
+72156,Mri neck spine w/o  w/dye
+72156,Mri neck
+72156,neck spine
+72156,spine w/o
+72156,w/o w/dye
+72156,w/o spine Mri neck w/dye
+72157,Mri chest spine w/o  w/dye
+72157,Mri chest
+72157,chest spine
+72157,spine w/o
+72157,w/o w/dye
+72157,spine w/o Mri chest w/dye
+72158,Mri lumbar spine w/o  w/dye
+72158,Mri lumbar
+72158,lumbar spine
+72158,spine w/o
+72158,w/o w/dye
+72158,lumbar spine Mri w/dye w/o
+72159,Mr angio spine w/ow/dye
+72159,Mr angio
+72159,angio spine
+72159,spine w/ow/dye
+72159,Mr spine w/ow/dye angio
+72170,X-ray exam of pelvis
+72170,X-ray exam
+72170,exam of
+72170,of pelvis
+72170,pelvis X-ray exam of
+72190,X-ray exam of pelvis
+72190,X-ray exam
+72190,exam of
+72190,of pelvis
+72190,exam of X-ray pelvis
+72191,Ct angiograph pelv w/ow/dye
+72191,Ct angiograph
+72191,angiograph pelv
+72191,pelv w/ow/dye
+72191,Ct pelv w/ow/dye angiograph
+72192,Ct pelvis w/o dye
+72192,Ct pelvis
+72192,pelvis w/o
+72192,w/o dye
+72192,pelvis w/o dye Ct
+72193,Ct pelvis w/dye
+72193,Ct pelvis
+72193,pelvis w/dye
+72193,pelvis w/dye Ct
+72194,Ct pelvis w/o  w/dye
+72194,Ct pelvis
+72194,pelvis w/o
+72194,w/o w/dye
+72194,pelvis w/dye Ct w/o
+72195,Mri pelvis w/o dye
+72195,Mri pelvis
+72195,pelvis w/o
+72195,w/o dye
+72195,Mri dye w/o pelvis
+72196,Mri pelvis w/dye
+72196,Mri pelvis
+72196,pelvis w/dye
+72196,w/dye pelvis Mri
+72197,Mri pelvis w/o  w/dye
+72197,Mri pelvis
+72197,pelvis w/o
+72197,w/o w/dye
+72197,pelvis Mri w/dye w/o
+72198,Mr angio pelvis w/o  w/dye
+72198,Mr angio
+72198,angio pelvis
+72198,pelvis w/o
+72198,w/o w/dye
+72198,angio w/o w/dye pelvis Mr
+72200,X-ray exam sacroiliac joints
+72200,X-ray exam
+72200,exam sacroiliac
+72200,sacroiliac joints
+72202,X-ray exam sacroiliac joints
+72202,X-ray exam
+72202,exam sacroiliac
+72202,sacroiliac joints
+72202,joints sacroiliac exam X-ray
+72220,X-ray exam of tailbone
+72220,X-ray exam
+72220,exam of
+72220,of tailbone
+72220,of exam tailbone X-ray
+73000,X-ray exam of collar bone
+73000,X-ray exam
+73000,exam of
+73000,of collar
+73000,collar bone
+73000,collar exam X-ray bone of
+73010,X-ray exam of shoulder blade
+73010,X-ray exam
+73010,exam of
+73010,of shoulder
+73010,shoulder blade
+73010,X-ray blade shoulder exam of
+73020,X-ray exam of shoulder
+73020,X-ray exam
+73020,exam of
+73020,of shoulder
+73020,exam of shoulder X-ray
+73030,X-ray exam of shoulder
+73030,X-ray exam
+73030,exam of
+73030,of shoulder
+73030,of X-ray shoulder exam
+73050,X-ray exam of shoulders
+73050,X-ray exam
+73050,exam of
+73050,of shoulders
+73050,X-ray shoulders exam of
+73060,X-ray exam of humerus
+73060,X-ray exam
+73060,exam of
+73060,of humerus
+73060,of exam humerus X-ray
+73070,X-ray exam of elbow
+73070,X-ray exam
+73070,exam of
+73070,of elbow
+73070,X-ray elbow of exam
+73080,X-ray exam of elbow
+73080,X-ray exam
+73080,exam of
+73080,of elbow
+73080,elbow exam X-ray of
+73090,X-ray exam of forearm
+73090,X-ray exam
+73090,exam of
+73090,of forearm
+73090,X-ray exam forearm of
+73092,X-ray exam of arm infant
+73092,X-ray exam
+73092,exam of
+73092,of arm
+73092,arm infant
+73092,exam of arm X-ray infant
+73100,X-ray exam of wrist
+73100,X-ray exam
+73100,exam of
+73100,of wrist
+73100,of wrist exam X-ray
+73110,X-ray exam of wrist
+73110,X-ray exam
+73110,exam of
+73110,of wrist
+73110,exam X-ray wrist of
+73120,X-ray exam of hand
+73120,X-ray exam
+73120,exam of
+73120,of hand
+73120,hand exam X-ray of
+73130,X-ray exam of hand
+73130,X-ray exam
+73130,exam of
+73130,of hand
+73130,of exam hand X-ray
+73140,X-ray exam of finger(s)
+73140,X-ray exam
+73140,exam of
+73140,of finger(s)
+73140,X-ray finger(s) of exam
+73200,Ct upper extremity w/o dye
+73200,Ct upper
+73200,upper extremity
+73200,extremity w/o
+73200,w/o dye
+73200,w/o Ct upper dye extremity
+73201,Ct upper extremity w/dye
+73201,Ct upper
+73201,upper extremity
+73201,extremity w/dye
+73201,Ct w/dye upper extremity
+73202,Ct uppr extremity w/ow/dye
+73202,Ct uppr
+73202,uppr extremity
+73202,extremity w/ow/dye
+73202,Ct extremity uppr w/ow/dye
+73206,Ct angio upr extrm w/ow/dye
+73206,Ct angio
+73206,angio upr
+73206,upr extrm
+73206,extrm w/ow/dye
+73206,angio extrm upr w/ow/dye Ct
+73218,Mri upper extremity w/o dye
+73218,Mri upper
+73218,upper extremity
+73218,extremity w/o
+73218,w/o dye
+73218,Mri w/o dye upper extremity
+73219,Mri upper extremity w/dye
+73219,Mri upper
+73219,upper extremity
+73219,extremity w/dye
+73219,extremity w/dye Mri upper
+73220,Mri uppr extremity w/ow/dye
+73220,Mri uppr
+73220,uppr extremity
+73220,extremity w/ow/dye
+73220,uppr extremity w/ow/dye Mri
+73221,Mri joint upr extrem w/o dye
+73221,Mri joint
+73221,joint upr
+73221,upr extrem
+73221,extrem w/o
+73221,w/o dye
+73221,dye joint upr Mri extrem w/o
+73222,Mri joint upr extrem w/dye
+73222,Mri joint
+73222,joint upr
+73222,upr extrem
+73222,extrem w/dye
+73222,extrem joint w/dye upr Mri
+73223,Mri joint upr extr w/ow/dye
+73223,Mri joint
+73223,joint upr
+73223,upr extr
+73223,extr w/ow/dye
+73223,w/ow/dye extr upr Mri joint
+73225,Mr angio upr extr w/ow/dye
+73225,Mr angio
+73225,angio upr
+73225,upr extr
+73225,extr w/ow/dye
+73225,Mr w/ow/dye extr upr angio
+73501,X-ray exam hip uni 1 view
+73501,X-ray exam
+73501,exam hip
+73501,hip uni
+73501,uni 1
+73501,1 view
+73501,exam uni hip view X-ray 1
+73502,X-ray exam hip uni 2-3 views
+73502,X-ray exam
+73502,exam hip
+73502,hip uni
+73502,uni 2-3
+73502,2-3 views
+73502,exam hip uni 2-3 views X-ray
+73503,X-ray exam hip uni 4/> views
+73503,X-ray exam
+73503,exam hip
+73503,hip uni
+73503,uni 4/>
+73503,4/> views
+73503,exam X-ray 4/> uni hip views
+73521,X-ray exam hips bi 2 views
+73521,X-ray exam
+73521,exam hips
+73521,hips bi
+73521,bi 2
+73521,2 views
+73521,X-ray 2 views bi hips exam
+73522,X-ray exam hips bi 3-4 views
+73522,X-ray exam
+73522,exam hips
+73522,hips bi
+73522,bi 3-4
+73522,3-4 views
+73522,3-4 X-ray hips exam views bi
+73523,X-ray exam hips bi 5/> views
+73523,X-ray exam
+73523,exam hips
+73523,hips bi
+73523,bi 5/>
+73523,5/> views
+73523,bi exam 5/> views X-ray hips
+73551,X-ray exam of femur 1
+73551,X-ray exam
+73551,exam of
+73551,of femur
+73551,femur 1
+73551,1 femur exam X-ray of
+73552,X-ray exam of femur 2/>
+73552,X-ray exam
+73552,exam of
+73552,of femur
+73552,femur 2/>
+73552,of femur 2/> X-ray exam
+73560,X-ray exam of knee 1 or 2
+73560,X-ray exam
+73560,exam of
+73560,of knee
+73560,knee 1
+73560,1 or
+73560,or 2
+73560,or X-ray 2 of knee 1 exam
+73562,X-ray exam of knee 3
+73562,X-ray exam
+73562,exam of
+73562,of knee
+73562,knee 3
+73562,3 exam X-ray of knee
+73564,X-ray exam knee 4 or more
+73564,X-ray exam
+73564,exam knee
+73564,knee 4
+73564,4 or
+73564,or more
+73564,knee exam 4 or more X-ray
+73565,X-ray exam of knees
+73565,X-ray exam
+73565,exam of
+73565,of knees
+73565,of X-ray knees exam
+73590,X-ray exam of lower leg
+73590,X-ray exam
+73590,exam of
+73590,of lower
+73590,lower leg
+73590,of lower X-ray leg exam
+73592,X-ray exam of leg infant
+73592,X-ray exam
+73592,exam of
+73592,of leg
+73592,leg infant
+73592,X-ray infant exam leg of
+73600,X-ray exam of ankle
+73600,X-ray exam
+73600,exam of
+73600,of ankle
+73600,of ankle exam X-ray
+73610,X-ray exam of ankle
+73610,X-ray exam
+73610,exam of
+73610,of ankle
+73610,ankle of exam X-ray
+73620,X-ray exam of foot
+73620,X-ray exam
+73620,exam of
+73620,of foot
+73620,foot X-ray of exam
+73630,X-ray exam of foot
+73630,X-ray exam
+73630,exam of
+73630,of foot
+73630,of foot exam X-ray
+73650,X-ray exam of heel
+73650,X-ray exam
+73650,exam of
+73650,of heel
+73650,exam of heel X-ray
+73660,X-ray exam of toe(s)
+73660,X-ray exam
+73660,exam of
+73660,of toe(s)
+73660,X-ray of toe(s) exam
+73700,Ct lower extremity w/o dye
+73700,Ct lower
+73700,lower extremity
+73700,extremity w/o
+73700,w/o dye
+73700,Ct extremity lower dye w/o
+73701,Ct lower extremity w/dye
+73701,Ct lower
+73701,lower extremity
+73701,extremity w/dye
+73701,w/dye extremity lower Ct
+73702,Ct lwr extremity w/ow/dye
+73702,Ct lwr
+73702,lwr extremity
+73702,extremity w/ow/dye
+73702,extremity lwr w/ow/dye Ct
+73706,Ct angio lwr extr w/ow/dye
+73706,Ct angio
+73706,angio lwr
+73706,lwr extr
+73706,extr w/ow/dye
+73706,angio extr w/ow/dye Ct lwr
+73718,Mri lower extremity w/o dye
+73718,Mri lower
+73718,lower extremity
+73718,extremity w/o
+73718,w/o dye
+73718,extremity dye lower Mri w/o
+73719,Mri lower extremity w/dye
+73719,Mri lower
+73719,lower extremity
+73719,extremity w/dye
+73719,extremity w/dye lower Mri
+73720,Mri lwr extremity w/ow/dye
+73720,Mri lwr
+73720,lwr extremity
+73720,extremity w/ow/dye
+73720,w/ow/dye lwr extremity Mri
+73721,Mri jnt of lwr extre w/o dye
+73721,Mri jnt
+73721,jnt of
+73721,of lwr
+73721,lwr extre
+73721,extre w/o
+73721,w/o dye
+73721,dye jnt of extre lwr Mri w/o
+73722,Mri joint of lwr extr w/dye
+73722,Mri joint
+73722,joint of
+73722,of lwr
+73722,lwr extr
+73722,extr w/dye
+73722,lwr extr Mri joint of w/dye
+73723,Mri joint lwr extr w/ow/dye
+73723,Mri joint
+73723,joint lwr
+73723,lwr extr
+73723,extr w/ow/dye
+73723,Mri lwr extr w/ow/dye joint
+73725,Mr ang lwr ext w or w/o dye
+73725,Mr ang
+73725,ang lwr
+73725,lwr ext
+73725,ext w
+73725,w or
+73725,or w/o
+73725,w/o dye
+73725,w ext lwr or Mr ang dye w/o
+74018,X-ray exam abdomen 1 view
+74018,X-ray exam
+74018,exam abdomen
+74018,abdomen 1
+74018,1 view
+74018,1 abdomen exam X-ray view
+74019,X-ray exam abdomen 2 views
+74019,X-ray exam
+74019,exam abdomen
+74019,abdomen 2
+74019,2 views
+74019,X-ray exam views abdomen 2
+74021,X-ray exam abdomen 3 views
+74021,X-ray exam
+74021,exam abdomen
+74021,abdomen 3
+74021,3 views
+74021,3 views X-ray abdomen exam
+74022,X-ray exam complete abdomen
+74022,X-ray exam
+74022,exam complete
+74022,complete abdomen
+74022,exam X-ray complete abdomen
+74150,Ct abdomen w/o dye
+74150,Ct abdomen
+74150,abdomen w/o
+74150,w/o dye
+74150,abdomen w/o Ct dye
+74160,Ct abdomen w/dye
+74160,Ct abdomen
+74160,abdomen w/dye
+74160,abdomen w/dye Ct
+74170,Ct abdomen w/o  w/dye
+74170,Ct abdomen
+74170,abdomen w/o
+74170,w/o w/dye
+74170,Ct w/dye abdomen w/o
+74174,Ct angio abdpelv w/ow/dye
+74174,Ct angio
+74174,angio abdpelv
+74174,abdpelv w/ow/dye
+74174,w/ow/dye Ct angio abdpelv
+74175,Ct angio abdom w/o  w/dye
+74175,Ct angio
+74175,angio abdom
+74175,abdom w/o
+74175,w/o w/dye
+74175,w/dye Ct w/o abdom angio
+74176,Ct abd  pelvis
+74176,Ct abd
+74176,abd pelvis
+74176,pelvis Ct abd
+74177,Ct abd  pelv w/contrast
+74177,Ct abd
+74177,abd pelv
+74177,pelv w/contrast
+74177,Ct pelv abd w/contrast
+74178,Ct abd  pelv 1/>regns
+74178,Ct abd
+74178,abd pelv
+74178,pelv 1/>regns
+74178,pelv Ct 1/>regns abd
+74181,Mri abdomen w/o dye
+74181,Mri abdomen
+74181,abdomen w/o
+74181,w/o dye
+74181,dye Mri w/o abdomen
+74182,Mri abdomen w/dye
+74182,Mri abdomen
+74182,abdomen w/dye
+74182,Mri w/dye abdomen
+74183,Mri abdomen w/o  w/dye
+74183,Mri abdomen
+74183,abdomen w/o
+74183,w/o w/dye
+74183,Mri abdomen w/o w/dye
+74185,Mri angio abdom w orw/o dye
+74185,Mri angio
+74185,angio abdom
+74185,abdom w
+74185,w orw/o
+74185,orw/o dye
+74185,abdom dye w angio Mri orw/o
+74210,X-ray xm phrnx/crv esoph c
+74210,X-ray xm
+74210,xm phrnx/crv
+74210,phrnx/crv esoph
+74210,esoph c
+74210,X-ray esoph xm c phrnx/crv
+74220,X-ray xm esophagus 1cntrst
+74220,X-ray xm
+74220,xm esophagus
+74220,esophagus 1cntrst
+74220,esophagus xm 1cntrst X-ray
+74221,X-ray xm esophagus 2cntrst
+74221,X-ray xm
+74221,xm esophagus
+74221,esophagus 2cntrst
+74221,xm X-ray 2cntrst esophagus
+74230,X-ray xm swlng funcj c
+74230,X-ray xm
+74230,xm swlng
+74230,swlng funcj
+74230,funcj c
+74230,X-ray xm funcj c swlng
+74240,X-ray xm upr gi trc 1cntrst
+74240,X-ray xm
+74240,xm upr
+74240,upr gi
+74240,gi trc
+74240,trc 1cntrst
+74240,upr X-ray 1cntrst xm gi trc
+74246,X-ray xm upr gi trc 2cntrst
+74246,X-ray xm
+74246,xm upr
+74246,upr gi
+74246,gi trc
+74246,trc 2cntrst
+74246,2cntrst gi X-ray trc xm upr
+74248,X-ray sm int f-thru std
+74248,X-ray sm
+74248,sm int
+74248,int f-thru
+74248,f-thru std
+74248,int X-ray std sm f-thru
+74250,X-ray xm sm int 1cntrst std
+74250,X-ray xm
+74250,xm sm
+74250,sm int
+74250,int 1cntrst
+74250,1cntrst std
+74250,sm 1cntrst int X-ray xm std
+74251,X-ray xm sm int 2cntrst std
+74251,X-ray xm
+74251,xm sm
+74251,sm int
+74251,int 2cntrst
+74251,2cntrst std
+74251,int 2cntrst X-ray sm std xm
+74270,X-ray xm colon 1cntrst std
+74270,X-ray xm
+74270,xm colon
+74270,colon 1cntrst
+74270,1cntrst std
+74270,std colon X-ray 1cntrst xm
+74280,X-ray xm colon 2cntrst std
+74280,X-ray xm
+74280,xm colon
+74280,colon 2cntrst
+74280,2cntrst std
+74280,2cntrst colon X-ray xm std
+74261,Ct colonography dx
+74261,Ct colonography
+74261,colonography dx
+74262,Ct colonography dx w/dye
+74262,Ct colonography
+74262,colonography dx
+74262,dx w/dye
+74262,colonography dx w/dye Ct
+74290,Contrast x-ray gallbladder
+74290,Contrast x-ray
+74290,x-ray gallbladder
+74290,gallbladder x-ray Contrast
+74710,X-ray measurement of pelvis
+74710,X-ray measurement
+74710,measurement of
+74710,of pelvis
+74710,X-ray measurement pelvis of
+74712,Mri fetal sngl/1st gestation
+74712,Mri fetal
+74712,fetal sngl/1st
+74712,sngl/1st gestation
+74712,fetal gestation Mri sngl/1st
+75557,Cardiac MRI for morph
+75557,Cardiac MRI
+75557,MRI for
+75557,for morph
+75557,MRI Cardiac for morph
+75559,Cardiac MRI w/stress img
+75559,Cardiac MRI
+75559,MRI w/stress
+75559,w/stress img
+75559,MRI w/stress Cardiac img
+75561,Cardiac MRI for morph w/dye
+75561,Cardiac MRI
+75561,MRI for
+75561,for morph
+75561,morph w/dye
+75561,MRI morph Cardiac w/dye for
+75563,Card MRI w/stress img  dye
+75563,Card MRI
+75563,MRI w/stress
+75563,w/stress img
+75563,img dye
+75563,MRI dye w/stress img Card
+75565,Card MRI veloc flow mapping
+75565,Card MRI
+75565,MRI veloc
+75565,veloc flow
+75565,flow mapping
+75565,veloc flow MRI mapping Card
+75571,Ct hrt w/o dye w/ca test
+75571,Ct hrt
+75571,hrt w/o
+75571,w/o dye
+75571,dye w/ca
+75571,w/ca test
+75571,w/ca test Ct hrt w/o dye
+75572,Ct hrt w/3d image
+75572,Ct hrt
+75572,hrt w/3d
+75572,w/3d image
+75572,w/3d Ct hrt image
+75573,Ct hrt w/3d image congen
+75573,Ct hrt
+75573,hrt w/3d
+75573,w/3d image
+75573,image congen
+75573,hrt w/3d Ct congen image
+75574,Ct angio hrt w/3d image
+75574,Ct angio
+75574,angio hrt
+75574,hrt w/3d
+75574,w/3d image
+75574,w/3d Ct hrt angio image
+75635,Ct angio abdominal arteries
+75635,Ct angio
+75635,angio abdominal
+75635,abdominal arteries
+75635,arteries angio abdominal Ct
+76000,Fluoroscopy <1 hr phys/qhp 
+76000,Fluoroscopy <1
+76000,<1 hr
+76000,hr phys/qhp
+76000,Fluoroscopy hr <1 phys/qhp
+76010,X-ray nose to rectum
+76010,X-ray nose
+76010,nose to
+76010,to rectum
+76010,X-ray to rectum nose
+76100,X-ray exam of body section
+76100,X-ray exam
+76100,exam of
+76100,of body
+76100,body section
+76100,X-ray section of body exam
+76120,Cine/video x-rays
+76125,Cine/video x-rays add-on
+76125,Cine/video x-rays
+76125,x-rays add-on
+76376,3d render w/o postprocess
+76376,3d render
+76376,render w/o
+76376,w/o postprocess
+76376,render postprocess 3d w/o
+76377,3d rendering w/postprocess
+76377,3d rendering
+76377,rendering w/postprocess
+76377,w/postprocess rendering 3d
+76380,CAT scan follow-up study
+76380,CAT scan
+76380,scan follow-up
+76380,follow-up study
+76380,scan CAT study follow-up
+76391,Mr elastography
+76499,Radiographic procedure
+76499,procedure Radiographic
+76506,Echo exam of head
+76506,Echo exam
+76506,exam of
+76506,of head
+76506,exam head of Echo
+76510,Ophth us b  quant a
+76510,Ophth us
+76510,us b
+76510,b quant
+76510,quant a
+76510,a Ophth us quant b
+76511,Ophth us quant a only
+76511,Ophth us
+76511,us quant
+76511,quant a
+76511,a only
+76511,us a only quant Ophth
+76512,Ophth us b w/non-quant a
+76512,Ophth us
+76512,us b
+76512,b w/non-quant
+76512,w/non-quant a
+76512,us w/non-quant Ophth b a
+76513,Oph us dx ant sgm us uni/bi
+76513,Oph us
+76513,us dx
+76513,dx ant
+76513,ant sgm
+76513,sgm us
+76513,us uni/bi
+76513,dx Oph uni/bi us us sgm ant
+76514,Echo exam of eye thickness
+76514,Echo exam
+76514,exam of
+76514,of eye
+76514,eye thickness
+76514,exam eye Echo thickness of
+76516,Echo exam of eye
+76516,Echo exam
+76516,exam of
+76516,of eye
+76516,of eye Echo exam
+76519,Echo exam of eye
+76519,Echo exam
+76519,exam of
+76519,of eye
+76519,eye exam Echo of
+76536,Us exam of head and neck
+76536,Us exam
+76536,exam of
+76536,of head
+76536,head and
+76536,and neck
+76536,Us exam neck and head of
+76604,Us exam chest
+76604,Us exam
+76604,exam chest
+76604,chest Us exam
+76641,Ultrasound breast complete
+76641,Ultrasound breast
+76641,breast complete
+76641,Ultrasound complete breast
+76642,Ultrasound breast limited
+76642,Ultrasound breast
+76642,breast limited
+76642,breast limited Ultrasound
+76700,Us exam abdom complete
+76700,Us exam
+76700,exam abdom
+76700,abdom complete
+76700,exam complete Us abdom
+76705,Echo exam of abdomen
+76705,Echo exam
+76705,exam of
+76705,of abdomen
+76705,Echo abdomen of exam
+76706,Us abdl aorta screen aaa
+76706,Us abdl
+76706,abdl aorta
+76706,aorta screen
+76706,screen aaa
+76706,abdl aaa Us aorta screen
+76770,Us exam abdo back wall comp
+76770,Us exam
+76770,exam abdo
+76770,abdo back
+76770,back wall
+76770,wall comp
+76770,Us exam comp wall abdo back
+76775,Us exam abdo back wall lim
+76775,Us exam
+76775,exam abdo
+76775,abdo back
+76775,back wall
+76775,wall lim
+76775,exam back abdo lim Us wall
+76776,Us exam k transpl w/Doppler
+76776,Us exam
+76776,exam k
+76776,k transpl
+76776,transpl w/Doppler
+76776,w/Doppler Us k transpl exam
+76800,Us exam spinal canal
+76800,Us exam
+76800,exam spinal
+76800,spinal canal
+76800,exam spinal Us canal
+76801,Ob us < 14 wks single fetus
+76801,Ob us
+76801,us <
+76801,< 14
+76801,14 wks
+76801,wks single
+76801,single fetus
+76801,Ob < us wks single 14 fetus
+76802,Ob us < 14 wks addl fetus
+76802,Ob us
+76802,us <
+76802,< 14
+76802,14 wks
+76802,wks addl
+76802,addl fetus
+76802,Ob < addl wks 14 us fetus
+76805,Ob us >/= 14 wks sngl fetus
+76805,Ob us
+76805,us >/=
+76805,>/= 14
+76805,14 wks
+76805,wks sngl
+76805,sngl fetus
+76805,14 us fetus sngl wks Ob >/=
+76810,Ob us >/= 14 wks addl fetus
+76810,Ob us
+76810,us >/=
+76810,>/= 14
+76810,14 wks
+76810,wks addl
+76810,addl fetus
+76810,us fetus addl Ob >/= 14 wks
+76811,Ob us detailed sngl fetus
+76811,Ob us
+76811,us detailed
+76811,detailed sngl
+76811,sngl fetus
+76811,sngl us Ob detailed fetus
+76812,Ob us detailed addl fetus
+76812,Ob us
+76812,us detailed
+76812,detailed addl
+76812,addl fetus
+76812,detailed fetus Ob us addl
+76815,Ob us limited fetus(s)
+76815,Ob us
+76815,us limited
+76815,limited fetus(s)
+76815,Ob fetus(s) us limited
+76816,Ob us follow-up per fetus
+76816,Ob us
+76816,us follow-up
+76816,follow-up per
+76816,per fetus
+76816,fetus follow-up Ob per us
+76818,Fetal biophys profile w/nst
+76818,Fetal biophys
+76818,biophys profile
+76818,profile w/nst
+76818,profile biophys w/nst Fetal
+76819,Fetal biophys profil w/o nst
+76819,Fetal biophys
+76819,biophys profil
+76819,profil w/o
+76819,w/o nst
+76819,nst w/o profil Fetal biophys
+76820,Umbilical artery echo
+76820,Umbilical artery
+76820,artery echo
+76820,echo artery Umbilical
+76821,Middle cerebral artery echo
+76821,Middle cerebral
+76821,cerebral artery
+76821,artery echo
+76821,Middle artery cerebral echo
+76825,Echo exam of fetal heart
+76825,Echo exam
+76825,exam of
+76825,of fetal
+76825,fetal heart
+76825,Echo of heart exam fetal
+76826,Echo exam of fetal heart
+76826,Echo exam
+76826,exam of
+76826,of fetal
+76826,fetal heart
+76826,exam Echo of fetal heart
+76827,Echo exam of fetal heart
+76827,Echo exam
+76827,exam of
+76827,of fetal
+76827,fetal heart
+76827,fetal heart Echo of exam
+76828,Echo exam of fetal heart
+76828,Echo exam
+76828,exam of
+76828,of fetal
+76828,fetal heart
+76828,heart fetal of Echo exam
+76856,Us exam pelvic complete
+76856,Us exam
+76856,exam pelvic
+76856,pelvic complete
+76856,Us complete exam pelvic
+76857,Us exam pelvic limited
+76857,Us exam
+76857,exam pelvic
+76857,pelvic limited
+76857,pelvic Us exam limited
+76870,Us exam scrotum
+76870,Us exam
+76870,exam scrotum
+76870,scrotum exam Us
+76881,Us compl joint r-t w/img 
+76881,Us compl
+76881,compl joint
+76881,joint r-t
+76881,r-t w/img
+76881,compl joint w/img r-t Us
+76882,US LMTD JT/FCL EVL NVASC XTR
+76882,US LMTD
+76882,LMTD JT/FCL
+76882,JT/FCL EVL
+76882,EVL NVASC
+76882,NVASC XTR
+76882,EVL JT/FCL US LMTD XTR NVASC
+76883,Us nrvacc strux 1xtr compre
+76883,Us nrvacc
+76883,nrvacc strux
+76883,strux 1xtr
+76883,1xtr compre
+76883,Us strux 1xtr nrvacc compre
+76885,Us exam infant hips dynamic
+76885,Us exam
+76885,exam infant
+76885,infant hips
+76885,hips dynamic
+76885,hips exam dynamic Us infant
+76886,Us exam infant hips static
+76886,Us exam
+76886,exam infant
+76886,infant hips
+76886,hips static
+76886,infant exam Us hips static
+76977,Us bone density measure
+76977,Us bone
+76977,bone density
+76977,density measure
+76977,measure density Us bone
+76978,Us trgt dyn mbubb 1st les
+76978,Us trgt
+76978,trgt dyn
+76978,dyn mbubb
+76978,mbubb 1st
+76978,1st les
+76978,les Us dyn 1st mbubb trgt
+76979,Us trgt dyn mbubb ea addl
+76979,Us trgt
+76979,trgt dyn
+76979,dyn mbubb
+76979,mbubb ea
+76979,ea addl
+76979,mbubb addl dyn trgt ea Us
+76981,Use parenchyma
+76981,parenchyma Use
+76982,Use 1st target lesion
+76982,Use 1st
+76982,1st target
+76982,target lesion
+76982,target Use lesion 1st
+76983,Use ea addl target lesion
+76983,Use ea
+76983,ea addl
+76983,addl target
+76983,target lesion
+76983,ea Use target lesion addl
+76999,Echo examination procedure
+76999,Echo examination
+76999,examination procedure
+76999,Echo procedure examination
+77046,Mri breast c-unilateral
+77046,Mri breast
+77046,breast c-unilateral
+77047,Mri breast c-bilateral
+77047,Mri breast
+77047,breast c-bilateral
+77047,Mri c-bilateral breast
+77048,Mri breast c- w/cad uni
+77048,Mri breast
+77048,breast c-
+77048,c- w/cad
+77048,w/cad uni
+77048,Mri breast uni w/cad c-
+77049,Mri breast c- w/cad bi
+77049,Mri breast
+77049,breast c-
+77049,c- w/cad
+77049,w/cad bi
+77049,breast w/cad c- Mri bi
+77061,Breast tomosynthesis uni
+77061,Breast tomosynthesis
+77061,tomosynthesis uni
+77061,tomosynthesis uni Breast
+77062,Breast tomosynthesis bi
+77062,Breast tomosynthesis
+77062,tomosynthesis bi
+77062,Breast bi tomosynthesis
+77065,Dx mammo incl cad uni
+77065,Dx mammo
+77065,mammo incl
+77065,incl cad
+77065,cad uni
+77065,mammo uni incl Dx cad
+77066,Dx mammo incl cad bi
+77066,Dx mammo
+77066,mammo incl
+77066,incl cad
+77066,cad bi
+77066,cad Dx incl bi mammo
+77071,X-ray stress view
+77071,X-ray stress
+77071,stress view
+77071,X-ray view stress
+77072,X-rays for bone age
+77072,X-rays for
+77072,for bone
+77072,bone age
+77073,X-rays bone length studies
+77073,X-rays bone
+77073,bone length
+77073,length studies
+77074,X-rays bone survey limited
+77074,X-rays bone
+77074,bone survey
+77074,survey limited
+77074,bone survey limited X-rays
+77075,X-rays bone survey complete
+77075,X-rays bone
+77075,bone survey
+77075,survey complete
+77075,bone survey complete X-rays
+77076,X-rays bone survey infant
+77076,X-rays bone
+77076,bone survey
+77076,survey infant
+77076,survey infant bone X-rays
+77077,Joint survey single view
+77077,Joint survey
+77077,survey single
+77077,single view
+77077,survey Joint single view
+77078,Ct bone density axial
+77078,Ct bone
+77078,bone density
+77078,density axial
+77078,density axial Ct bone
+77080,Dxa bone density axial
+77080,Dxa bone
+77080,bone density
+77080,density axial
+77080,bone density Dxa axial
+77081,Dxa bone density/peripheral
+77081,Dxa bone
+77081,bone density/peripheral
+77081,bone density/peripheral Dxa
+77084,Magnetic image bone marrow
+77084,Magnetic image
+77084,image bone
+77084,bone marrow
+77084,image Magnetic marrow bone
+77085,Dxa bone density study
+77085,Dxa bone
+77085,bone density
+77085,density study
+77085,study bone Dxa density
+77086,Fracture assessment via dxa
+77086,Fracture assessment
+77086,assessment via
+77086,via dxa
+77086,Fracture dxa via assessment
+77089,Tbs dxa cal w/ir fx risk
+77089,Tbs dxa
+77089,dxa cal
+77089,cal w/ir
+77089,w/ir fx
+77089,fx risk
+77089,dxa Tbs risk cal w/ir fx
+78012,Thyroid uptake measurement 
+78012,Thyroid uptake
+78012,uptake measurement
+78012,Thyroid uptake measurement
+78013,Thyroid imaging w/blood flow
+78013,Thyroid imaging
+78013,imaging w/blood
+78013,w/blood flow
+78013,Thyroid w/blood flow imaging
+78014,Thyroid imaging w/blood flow
+78014,Thyroid imaging
+78014,imaging w/blood
+78014,w/blood flow
+78014,w/blood imaging Thyroid flow
+78015,Thyroid met imaging
+78015,Thyroid met
+78015,met imaging
+78016,Thyroid met imaging/studies
+78016,Thyroid met
+78016,met imaging/studies
+78016,imaging/studies met Thyroid
+78018,Thyroid met imaging body
+78018,Thyroid met
+78018,met imaging
+78018,imaging body
+78018,body Thyroid imaging met
+78020,Thyroid met uptake
+78020,Thyroid met
+78020,met uptake
+78020,uptake met Thyroid
+78070,Parathyroid nuclear imaging
+78070,Parathyroid nuclear
+78070,nuclear imaging
+78070,nuclear imaging Parathyroid
+78071,Parathyrd planar w/wo subtrj
+78071,Parathyrd planar
+78071,planar w/wo
+78071,w/wo subtrj
+78071,planar subtrj Parathyrd w/wo
+78072,Parathyrd planar w/spectct
+78072,Parathyrd planar
+78072,planar w/spectct
+78072,planar w/spectct Parathyrd
+78075,Adrenal nuclear imaging
+78075,Adrenal nuclear
+78075,nuclear imaging
+78075,nuclear imaging Adrenal
+78099,Endocrine nuclear procedure
+78099,Endocrine nuclear
+78099,nuclear procedure
+78099,Endocrine procedure nuclear
+78102,Bone marrow imaging ltd
+78102,Bone marrow
+78102,marrow imaging
+78102,imaging ltd
+78102,ltd marrow imaging Bone
+78103,Bone marrow imaging mult
+78103,Bone marrow
+78103,marrow imaging
+78103,imaging mult
+78103,mult imaging marrow Bone
+78104,Bone marrow imaging body
+78104,Bone marrow
+78104,marrow imaging
+78104,imaging body
+78104,marrow imaging Bone body
+78140,Red cell sequestration
+78140,Red cell
+78140,cell sequestration
+78140,Red sequestration cell
+78185,Spleen imaging
+78195,Lymph system imaging
+78195,Lymph system
+78195,system imaging
+78195,Lymph imaging system
+78199,Blood/lymph nuclear exam
+78199,Blood/lymph nuclear
+78199,nuclear exam
+78199,nuclear Blood/lymph exam
+78201,Liver imaging
+78202,Liver imaging with flow
+78202,Liver imaging
+78202,imaging with
+78202,with flow
+78202,with imaging flow Liver
+78215,Liver and spleen imaging
+78215,Liver and
+78215,and spleen
+78215,spleen imaging
+78216,Liver  spleen image/flow
+78216,Liver spleen
+78216,spleen image/flow
+78216,Liver image/flow spleen
+78226,Hepatobiliary system imaging
+78226,Hepatobiliary system
+78226,system imaging
+78226,system imaging Hepatobiliary
+78227,Hepatobil syst image w/drug
+78227,Hepatobil syst
+78227,syst image
+78227,image w/drug
+78227,syst w/drug Hepatobil image
+78230,Salivary gland imaging
+78230,Salivary gland
+78230,gland imaging
+78230,imaging gland Salivary
+78231,Serial salivary imaging
+78231,Serial salivary
+78231,salivary imaging
+78231,Serial imaging salivary
+78232,Salivary gland function exam
+78232,Salivary gland
+78232,gland function
+78232,function exam
+78232,Salivary function gland exam
+78258,Esophageal motility study
+78258,Esophageal motility
+78258,motility study
+78258,motility Esophageal study
+78261,Gastric mucosa imaging
+78261,Gastric mucosa
+78261,mucosa imaging
+78261,imaging Gastric mucosa
+78262,Gastroesophageal reflux exam
+78262,Gastroesophageal reflux
+78262,reflux exam
+78262,exam Gastroesophageal reflux
+78264,Gastric emptying study
+78264,Gastric emptying
+78264,emptying study
+78264,Gastric study emptying
+78265,Gastric emptying imag study
+78265,Gastric emptying
+78265,emptying imag
+78265,imag study
+78265,study emptying imag Gastric
+78266,Gastric emptying imag study
+78266,Gastric emptying
+78266,emptying imag
+78266,imag study
+78266,study imag emptying Gastric
+78278,Acute GI blood loss imaging
+78278,Acute GI
+78278,GI blood
+78278,blood loss
+78278,loss imaging
+78278,imaging GI Acute blood loss
+78282,GI protein loss exam
+78282,GI protein
+78282,protein loss
+78282,loss exam
+78282,GI loss protein exam
+78290,Meckels divert exam
+78290,Meckels divert
+78290,divert exam
+78290,divert exam Meckels
+78291,Leveen/shunt patency exam
+78291,Leveen/shunt patency
+78291,patency exam
+78291,Leveen/shunt exam patency
+78299,GI nuclear procedure
+78299,GI nuclear
+78299,nuclear procedure
+78299,procedure nuclear GI
+78300,Bone imaging limited area
+78300,Bone imaging
+78300,imaging limited
+78300,limited area
+78300,limited imaging Bone area
+78305,Bone imaging multiple areas
+78305,Bone imaging
+78305,imaging multiple
+78305,multiple areas
+78305,Bone imaging areas multiple
+78306,Bone imaging whole body
+78306,Bone imaging
+78306,imaging whole
+78306,whole body
+78306,Bone whole imaging body
+78315,Bone imaging 3 phase
+78315,Bone imaging
+78315,imaging 3
+78315,3 phase
+78315,Bone phase imaging 3
+78399,Musculoskeletal nuclear exam
+78399,Musculoskeletal nuclear
+78399,nuclear exam
+78399,Musculoskeletal exam nuclear
+78428,Cardiac shunt imaging
+78428,Cardiac shunt
+78428,shunt imaging
+78428,Cardiac imaging shunt
+78429,Myocrd img pet 1 std w/ct
+78429,Myocrd img
+78429,img pet
+78429,pet 1
+78429,1 std
+78429,std w/ct
+78429,std 1 w/ct pet Myocrd img
+78430,Myocrd img pet rst/strs w/ct
+78430,Myocrd img
+78430,img pet
+78430,pet rst/strs
+78430,rst/strs w/ct
+78430,pet w/ct rst/strs img Myocrd
+78431,Myocrd img pet rststrs ct
+78431,Myocrd img
+78431,img pet
+78431,pet rststrs
+78431,rststrs ct
+78431,rststrs img Myocrd ct pet
+78432,Myocrd img pet 2rtracer
+78432,Myocrd img
+78432,img pet
+78432,pet 2rtracer
+78432,2rtracer pet Myocrd img
+78433,Myocrd img pet 2rtracer ct
+78433,Myocrd img
+78433,img pet
+78433,pet 2rtracer
+78433,2rtracer ct
+78433,2rtracer pet img ct Myocrd
+78434,Aqmbf pet rest  rx stress
+78434,Aqmbf pet
+78434,pet rest
+78434,rest rx
+78434,rx stress
+78434,rx stress rest pet Aqmbf
+78445,Vascular flow imaging
+78445,Vascular flow
+78445,flow imaging
+78445,imaging flow Vascular
+78451,Ht muscle image spect sing
+78451,Ht muscle
+78451,muscle image
+78451,image spect
+78451,spect sing
+78451,spect image sing muscle Ht
+78452,Ht muscle image spect mult
+78452,Ht muscle
+78452,muscle image
+78452,image spect
+78452,spect mult
+78452,Ht spect mult image muscle
+78453,Ht muscle image planar sing
+78453,Ht muscle
+78453,muscle image
+78453,image planar
+78453,planar sing
+78453,sing planar muscle Ht image
+78454,Ht musc image planar mult
+78454,Ht musc
+78454,musc image
+78454,image planar
+78454,planar mult
+78454,mult planar musc Ht image
+78456,Acute venous thrombus image
+78456,Acute venous
+78456,venous thrombus
+78456,thrombus image
+78456,thrombus Acute image venous
+78457,Venous thrombosis imaging
+78457,Venous thrombosis
+78457,thrombosis imaging
+78458,Ven thrombosis images bilat
+78458,Ven thrombosis
+78458,thrombosis images
+78458,images bilat
+78458,images Ven bilat thrombosis
+78459,Myocrd img pet single study
+78459,Myocrd img
+78459,img pet
+78459,pet single
+78459,single study
+78459,pet single study img Myocrd
+78466,Heart infarct image
+78466,Heart infarct
+78466,infarct image
+78468,Heart infarct image (ef)
+78468,Heart infarct
+78468,infarct image
+78468,image (ef)
+78468,(ef) infarct Heart image
+78469,Heart infarct image (3D)
+78469,Heart infarct
+78469,infarct image
+78469,image (3D)
+78469,(3D) image infarct Heart
+78472,Gated heart planar single
+78472,Gated heart
+78472,heart planar
+78472,planar single
+78473,Gated heart multiple
+78473,Gated heart
+78473,heart multiple
+78473,multiple heart Gated
+78481,Heart first pass single
+78481,Heart first
+78481,first pass
+78481,pass single
+78481,single first Heart pass
+78483,Heart first pass multiple
+78483,Heart first
+78483,first pass
+78483,pass multiple
+78483,first pass Heart multiple
+78491,Myocrd img pet 1std rst/strs
+78491,Myocrd img
+78491,img pet
+78491,pet 1std
+78491,1std rst/strs
+78491,Myocrd pet img 1std rst/strs
+78492,Myocrd img pet mlt rststrs
+78492,Myocrd img
+78492,img pet
+78492,pet mlt
+78492,mlt rststrs
+78492,Myocrd mlt pet img rststrs
+78494,Heart image spect
+78494,Heart image
+78494,image spect
+78496,Heart first pass add-on
+78496,Heart first
+78496,first pass
+78496,pass add-on
+78496,pass add-on first Heart
+78499,Cardiovascular nuclear exam
+78499,Cardiovascular nuclear
+78499,nuclear exam
+78499,Cardiovascular exam nuclear
+78579,Lung ventilation imaging
+78579,Lung ventilation
+78579,ventilation imaging
+78579,imaging Lung ventilation
+78580,Lung perfusion imaging
+78580,Lung perfusion
+78580,perfusion imaging
+78580,imaging perfusion Lung
+78582,Lung ventilatperfus imaging
+78582,Lung ventilatperfus
+78582,ventilatperfus imaging
+78582,ventilatperfus imaging Lung
+78597,Lung perfusion differential
+78597,Lung perfusion
+78597,perfusion differential
+78597,perfusion differential Lung
+78598,Lung perfventilat diferentl
+78598,Lung perfventilat
+78598,perfventilat diferentl
+78598,Lung diferentl perfventilat
+78599,Respiratory nuclear exam
+78599,Respiratory nuclear
+78599,nuclear exam
+78599,exam Respiratory nuclear
+78600,Brain image < 4 views
+78600,Brain image
+78600,image <
+78600,< 4
+78600,4 views
+78600,image 4 < Brain views
+78601,Brain image w/flow < 4 views
+78601,Brain image
+78601,image w/flow
+78601,w/flow <
+78601,< 4
+78601,4 views
+78601,4 Brain views w/flow < image
+78605,Brain image 4 views
+78605,Brain image
+78605,image 4
+78605,4 views
+78606,Brain image w/flow 4  views
+78606,Brain image
+78606,image w/flow
+78606,w/flow 4
+78606,4 views
+78606,4 image w/flow Brain views
+78608,Brain imaging (PET)
+78608,Brain imaging
+78608,imaging (PET)
+78608,(PET) Brain imaging
+78610,Brain flow imaging only
+78610,Brain flow
+78610,flow imaging
+78610,imaging only
+78610,only imaging flow Brain
+78630,Cerebrospinal fluid scan
+78630,Cerebrospinal fluid
+78630,fluid scan
+78635,CSF ventriculography
+78645,CSF shunt evaluation
+78645,CSF shunt
+78645,shunt evaluation
+78645,shunt evaluation CSF
+78650,CSF leakage imaging
+78650,CSF leakage
+78650,leakage imaging
+78660,Nuclear exam of tear flow
+78660,Nuclear exam
+78660,exam of
+78660,of tear
+78660,tear flow
+78660,flow exam of tear Nuclear
+78699,Nervous system nuclear exam
+78699,Nervous system
+78699,system nuclear
+78699,nuclear exam
+78699,system nuclear exam Nervous
+78700,Kidney imaging morphol
+78700,Kidney imaging
+78700,imaging morphol
+78700,imaging morphol Kidney
+78701,Kidney imaging with flow
+78701,Kidney imaging
+78701,imaging with
+78701,with flow
+78701,with flow Kidney imaging
+78707,K flow/funct image w/o drug
+78707,K flow/funct
+78707,flow/funct image
+78707,image w/o
+78707,w/o drug
+78707,flow/funct drug image K w/o
+78708,K flow/funct image w/drug
+78708,K flow/funct
+78708,flow/funct image
+78708,image w/drug
+78708,image w/drug flow/funct K
+78709,K flow/funct image multiple
+78709,K flow/funct
+78709,flow/funct image
+78709,image multiple
+78709,flow/funct K multiple image
+78730,Urinary bladder retention
+78730,Urinary bladder
+78730,bladder retention
+78730,Urinary retention bladder
+78740,Ureteral reflux study
+78740,Ureteral reflux
+78740,reflux study
+78740,study Ureteral reflux
+78761,Testicular imaging w/flow
+78761,Testicular imaging
+78761,imaging w/flow
+78761,w/flow Testicular imaging
+78799,Genitourinary nuclear exam
+78799,Genitourinary nuclear
+78799,nuclear exam
+78799,exam nuclear Genitourinary
+78800,Rp loclzj tum 1 area 1 d img
+78800,Rp loclzj
+78800,loclzj tum
+78800,tum 1
+78800,1 area
+78800,area 1
+78800,1 d
+78800,d img
+78800,area 1 1 d Rp loclzj img tum
+78801,Rp loclzj tum 2area 1d img
+78801,Rp loclzj
+78801,loclzj tum
+78801,tum 2area
+78801,2area 1d
+78801,1d img
+78801,Rp 2area tum img loclzj 1d
+78802,Rp loclzj tum whbdy 1 d img
+78802,Rp loclzj
+78802,loclzj tum
+78802,tum whbdy
+78802,whbdy 1
+78802,1 d
+78802,d img
+78802,d tum loclzj whbdy Rp img 1
+78803,Rp loclzj tum spect 1 area 
+78803,Rp loclzj
+78803,loclzj tum
+78803,tum spect
+78803,spect 1
+78803,1 area
+78803,Rp loclzj area tum spect 1
+78804,Rp loclzj tum whbdy 2d img
+78804,Rp loclzj
+78804,loclzj tum
+78804,tum whbdy
+78804,whbdy 2d
+78804,2d img
+78804,Rp loclzj tum 2d img whbdy
+78811,PET image ltd area
+78811,PET image
+78811,image ltd
+78811,ltd area
+78811,area ltd image PET
+78812,PET image skull-thigh
+78812,PET image
+78812,image skull-thigh
+78812,image PET skull-thigh
+78813,PET image full body
+78813,PET image
+78813,image full
+78813,full body
+78813,PET body full image
+78814,PET image w/ct lmtd
+78814,PET image
+78814,image w/ct
+78814,w/ct lmtd
+78814,lmtd PET image w/ct
+78815,PET image w/ct skull-thigh
+78815,PET image
+78815,image w/ct
+78815,w/ct skull-thigh
+78815,PET w/ct skull-thigh image
+78816,PET image w/ct full body
+78816,PET image
+78816,image w/ct
+78816,w/ct full
+78816,full body
+78816,image body PET full w/ct
+78999,Nuclear diagnostic exam
+78999,Nuclear diagnostic
+78999,diagnostic exam
+78999,Nuclear exam diagnostic
+91110,Gi tract capsule endoscopy
+91110,Gi tract
+91110,tract capsule
+91110,capsule endoscopy
+91110,tract capsule endoscopy Gi
+91111,Esophageal capsule endoscopy
+91111,Esophageal capsule
+91111,capsule endoscopy
+91111,capsule endoscopy Esophageal
+92132,Cpmtr ophth dx img ant segmt
+92132,Cpmtr ophth
+92132,ophth dx
+92132,dx img
+92132,img ant
+92132,ant segmt
+92132,img ophth Cpmtr dx segmt ant
+92133,Cmptr ophth img optic nerve
+92133,Cmptr ophth
+92133,ophth img
+92133,img optic
+92133,optic nerve
+92133,optic img ophth Cmptr nerve
+92134,Cptr ophth dx img post segmt
+92134,Cptr ophth
+92134,ophth dx
+92134,dx img
+92134,img post
+92134,post segmt
+92134,Cptr ophth post dx segmt img
+92227,Img rta detcj/mntr ds staff
+92227,Img rta
+92227,rta detcj/mntr
+92227,detcj/mntr ds
+92227,ds staff
+92227,staff rta ds Img detcj/mntr
+92228,Img rta detc/mntr ds phy/qhp
+92228,Img rta
+92228,rta detc/mntr
+92228,detc/mntr ds
+92228,ds phy/qhp
+92228,ds detc/mntr Img rta phy/qhp
+92229,Img rta detc/mntr ds poc aly 
+92229,Img rta
+92229,rta detc/mntr
+92229,detc/mntr ds
+92229,ds poc
+92229,poc aly
+92229,rta ds poc Img detc/mntr aly
+93303,Echo transthoracic
+93304,Echo transthoracic
+93304,transthoracic Echo
+93306,Tte w/doppler complete 
+93306,Tte w/doppler
+93306,w/doppler complete
+93306,complete w/doppler Tte
+93307,Tte w/o doppler complete
+93307,Tte w/o
+93307,w/o doppler
+93307,doppler complete
+93307,complete doppler Tte w/o
+93308,Tte f-up or lmtd 
+93308,Tte f-up
+93308,f-up or
+93308,or lmtd
+93308,f-up lmtd or Tte
+93320,Doppler echo exam heart [if used in conjunction with 93303-93304]
+93320,Doppler echo
+93320,echo exam
+93320,exam heart
+93320,heart [if
+93320,[if used
+93320,used in
+93320,in conjunction
+93320,conjunction with
+93320,with 93303-93304]
+93320,with echo used conjunction 93303-93304] heart in Doppler [if exam
+93321,"Doppler echo exam heart [if used in conjunction with 93303, 93304, 93308]"
+93321,Doppler echo
+93321,echo exam
+93321,exam heart
+93321,heart [if
+93321,[if used
+93321,used in
+93321,in conjunction
+93321,conjunction with
+93321,"with 93303,"
+93321,"93303, 93304,"
+93321,"93304, 93308]"
+93321,"93304, heart exam Doppler in used conjunction 93308] with [if 93303, echo"
+93325,"Doppler color flow add-on [if used in conjunction with 76825, 76826, 76827,76828, 93303, 93304, 93308]"
+93325,Doppler color
+93325,color flow
+93325,flow add-on
+93325,add-on [if
+93325,[if used
+93325,used in
+93325,in conjunction
+93325,conjunction with
+93325,"with 76825,"
+93325,"76825, 76826,"
+93325,"76826, 76827,76828,"
+93325,"76827,76828, 93303,"
+93325,"93303, 93304,"
+93325,"93304, 93308]"
+93325,"93303, add-on Doppler [if 76827,76828, color in 76825, 93304, 93308] used conjunction with 76826, flow"
+93356,Myocrd strain img spckl trck
+93356,Myocrd strain
+93356,strain img
+93356,img spckl
+93356,spckl trck
+93356,trck strain spckl Myocrd img
+93880,Extracranial study
+93880,study Extracranial
+93882,Extracranial study
+93886,Intracranial study
+93886,study Intracranial
+93888,Intracranial study
+93890,Tcd vasoreactivity study
+93890,Tcd vasoreactivity
+93890,vasoreactivity study
+93890,study vasoreactivity Tcd
+93892,Tcd emboli detect w/o inj
+93892,Tcd emboli
+93892,emboli detect
+93892,detect w/o
+93892,w/o inj
+93892,Tcd inj detect w/o emboli
+93922,Upr/l xtremity art 2 levels
+93922,Upr/l xtremity
+93922,xtremity art
+93922,art 2
+93922,2 levels
+93922,xtremity Upr/l levels art 2
+93923,Upr/lxtr art stdy 3 lvls
+93923,Upr/lxtr art
+93923,art stdy
+93923,stdy 3
+93923,3 lvls
+93923,stdy Upr/lxtr 3 lvls art
+93924,Lwr xtr vasc stdy bilat 
+93924,Lwr xtr
+93924,xtr vasc
+93924,vasc stdy
+93924,stdy bilat
+93924,Lwr bilat xtr stdy vasc
+93925,Lower extremity study
+93925,Lower extremity
+93925,extremity study
+93925,study extremity Lower
+93926,Lower extremity study
+93926,Lower extremity
+93926,extremity study
+93930,Upper extremity study
+93930,Upper extremity
+93930,extremity study
+93930,study Upper extremity
+93931,Upper extremity study
+93931,Upper extremity
+93931,extremity study
+93931,study extremity Upper
+93970,Extremity study
+93970,study Extremity
+93971,Extremity study
+93975,Vascular study
+93975,study Vascular
+93976,Vascular study
+93976,study Vascular
+93978,Vascular study
+93978,study Vascular
+93979,Vascular study
+93979,study Vascular
+93980,Penile vascular study
+93980,Penile vascular
+93980,vascular study
+93980,Penile study vascular
+93981,Penile vascular study
+93981,Penile vascular
+93981,vascular study
+93981,Penile study vascular
+93990,Doppler flow testing
+93990,Doppler flow
+93990,flow testing
+93990,testing flow Doppler
+93998,Noninvas vasc dx study proc
+93998,Noninvas vasc
+93998,vasc dx
+93998,dx study
+93998,study proc
+93998,vasc study dx proc Noninvas
+97610,Low frequency non-thermal US
+97610,Low frequency
+97610,frequency non-thermal
+97610,non-thermal US
+97610,US Low frequency non-thermal
+A4641,Radiopharm dx agent noc
+A4641,Radiopharm dx
+A4641,dx agent
+A4641,agent noc
+A4641,Radiopharm agent noc dx
+A4642,In111 satumomab
+A4642,satumomab In111
+A9500,Tc99m sestamibi
+A9500,sestamibi Tc99m
+A9501,Technetium TC-99m teboroxime
+A9501,Technetium TC-99m
+A9501,TC-99m teboroxime
+A9501,TC-99m Technetium teboroxime
+A9502,Tc99m tetrofosmin
+A9502,tetrofosmin Tc99m
+A9503,Tc99m medronate
+A9504,Tc99m apcitide
+A9505,TL201 thallium
+A9507,In111 capromab
+A9508,"I131 iodobenguate, dx"
+A9508,"I131 iodobenguate,"
+A9508,"iodobenguate, dx"
+A9508,"iodobenguate, I131 dx"
+A9509,Iodine I-123 sod iodide mil
+A9509,Iodine I-123
+A9509,I-123 sod
+A9509,sod iodide
+A9509,iodide mil
+A9509,iodide sod I-123 Iodine mil
+A9510,Tc99m disofenin
+A9512,Tc99m pertechnetate
+A9515,Choline c-11
+A9515,c-11 Choline
+A9516,Iodine I-123 sod iodide mic
+A9516,Iodine I-123
+A9516,I-123 sod
+A9516,sod iodide
+A9516,iodide mic
+A9516,sod mic iodide Iodine I-123
+A9520,Tc99 Tilmanocept diag 0.5mci
+A9520,Tc99 Tilmanocept
+A9520,Tilmanocept diag
+A9520,diag 0.5mci
+A9520,Tilmanocept Tc99 0.5mci diag
+A9521,Tc99m exametazime
+A9524,"I131 serum albumin, dx"
+A9524,I131 serum
+A9524,"serum albumin,"
+A9524,"albumin, dx"
+A9524,"serum dx albumin, I131"
+A9526,Nitrogen N-13 ammonia
+A9526,Nitrogen N-13
+A9526,N-13 ammonia
+A9526,Nitrogen ammonia N-13
+A9528,"Iodine I-131 iodide cap, dx"
+A9528,Iodine I-131
+A9528,I-131 iodide
+A9528,"iodide cap,"
+A9528,"cap, dx"
+A9528,"I-131 cap, Iodine iodide dx"
+A9529,"I131 iodide sol, dx "
+A9529,I131 iodide
+A9529,"iodide sol,"
+A9529,"sol, dx"
+A9529,"I131 sol, iodide dx"
+A9531,I131 max 100uCi
+A9531,I131 max
+A9531,max 100uCi
+A9532,"I125 serum albumin, dx"
+A9532,I125 serum
+A9532,"serum albumin,"
+A9532,"albumin, dx"
+A9532,"dx serum I125 albumin,"
+A9536,TC99m depreotide
+A9537,Tc99m mebrofenin
+A9538,Tc99m pyrophosphate 
+A9538,Tc99m pyrophosphate
+A9538,Tc99m pyrophosphate
+A9539    ,Tc99m pentetate
+A9540,Tc99m MAA
+A9541     ,Tc99m sulfur colloid
+A9541     ,Tc99m sulfur
+A9541     ,sulfur colloid
+A9541     ,colloid Tc99m sulfur
+A9542    ,"In111 ibritumomab, dx"
+A9542    ,"In111 ibritumomab,"
+A9542    ,"ibritumomab, dx"
+A9542    ,"dx In111 ibritumomab,"
+A9546    ,CO57/58
+A9547   ,In111 oxyquinoline
+A9547   ,oxyquinoline In111
+A9548    ,In111 pentetate
+A9548    ,pentetate In111
+A9550   ,Tc99m gluceptate   
+A9550   ,Tc99m gluceptate
+A9550   ,gluceptate Tc99m
+A9551,Tc99m succimer
+A9552,F18 fdg
+A9553,Cr51 chromate
+A9554,"I125 iothalamate, dx"
+A9554,"I125 iothalamate,"
+A9554,"iothalamate, dx"
+A9555,Rb82 rubidium
+A9556,Ga67 gallium
+A9557,Tc99m bicisate
+A9558,Xe133 xenon 10mci
+A9558,Xe133 xenon
+A9558,xenon 10mci
+A9558,xenon Xe133 10mci
+A9559,Co57 cyano
+A9559,cyano Co57
+A9560,Tc99m labeled rbc
+A9560,Tc99m labeled
+A9560,labeled rbc
+A9561,Tc99m oxidronate
+A9561,oxidronate Tc99m
+A9562,Tc99m mertiatide
+A9566,Tc99m fanolesomab
+A9566,fanolesomab Tc99m
+A9567,Technetium TC-99m aerosol
+A9567,Technetium TC-99m
+A9567,TC-99m aerosol
+A9567,TC-99m aerosol Technetium
+A9568,Technetium tc99m arcitumomab
+A9568,Technetium tc99m
+A9568,tc99m arcitumomab
+A9568,arcitumomab tc99m Technetium
+A9569,Technetium TC-99m auto WBC
+A9569,Technetium TC-99m
+A9569,TC-99m auto
+A9569,auto WBC
+A9569,auto Technetium WBC TC-99m
+A9570,Indium In-111 auto WBC
+A9570,Indium In-111
+A9570,In-111 auto
+A9570,auto WBC
+A9570,WBC Indium In-111 auto
+A9571,Indium In-111 auto platelet
+A9571,Indium In-111
+A9571,In-111 auto
+A9571,auto platelet
+A9571,In-111 platelet Indium auto
+A9572,Indium In-111 pentetreotide
+A9572,Indium In-111
+A9572,In-111 pentetreotide
+A9572,pentetreotide In-111 Indium
+A9576,Inj prohance multipack
+A9576,Inj prohance
+A9576,prohance multipack
+A9576,multipack prohance Inj
+A9577,Inj multihance
+A9578,Inj multihance multipack
+A9578,Inj multihance
+A9578,multihance multipack
+A9578,multihance multipack Inj
+A9579,"Gad-base MR contrast NOS,1ml  "
+A9579,Gad-base MR
+A9579,MR contrast
+A9579,"contrast NOS,1ml"
+A9579,"NOS,1ml Gad-base MR contrast"
+A9580,Sodium fluoride F-18
+A9580,Sodium fluoride
+A9580,fluoride F-18
+A9580,F-18 Sodium fluoride
+A9584,Iodine I-123 ioflupane
+A9584,Iodine I-123
+A9584,I-123 ioflupane
+A9584,I-123 Iodine ioflupane
+A9586,Florbetapir F18
+A9587,Gallium Ga-68
+A9588,Fluciclovine f-18
+A9591,Fluoroestradiol f 18 
+A9591,Fluoroestradiol f
+A9591,f 18
+A9591,18 f Fluoroestradiol
+A9592,Copper cu 64 dotatate diag
+A9592,Copper cu
+A9592,cu 64
+A9592,64 dotatate
+A9592,dotatate diag
+A9592,diag 64 cu dotatate Copper
+A9593,Gallium ga-68 psma-11 ucsf
+A9593,Gallium ga-68
+A9593,ga-68 psma-11
+A9593,psma-11 ucsf
+A9593,psma-11 ucsf ga-68 Gallium
+A9594,"Gallium ga-68 psma-11, ucla"
+A9594,Gallium ga-68
+A9594,"ga-68 psma-11,"
+A9594,"psma-11, ucla"
+A9594,"psma-11, Gallium ga-68 ucla"
+A9595,"Piflu f-18, dia 1 millicurie"
+A9595,"Piflu f-18,"
+A9595,"f-18, dia"
+A9595,dia 1
+A9595,1 millicurie
+A9595,"dia f-18, Piflu millicurie 1"
+A9596,Gallium illuccix 1 millicure
+A9596,Gallium illuccix
+A9596,illuccix 1
+A9596,1 millicure
+A9596,Gallium 1 millicure illuccix
+A9597,"Pet, dx, for tumor id, noc"
+A9597,"Pet, dx,"
+A9597,"dx, for"
+A9597,for tumor
+A9597,"tumor id,"
+A9597,"id, noc"
+A9597,"noc id, tumor dx, for Pet,"
+A9598,"Pet dx for non-tumor id, noc"
+A9598,Pet dx
+A9598,dx for
+A9598,for non-tumor
+A9598,"non-tumor id,"
+A9598,"id, noc"
+A9598,"noc dx Pet for non-tumor id,"
+A9601,Flortaucipir inj 1 millicuri
+A9601,Flortaucipir inj
+A9601,inj 1
+A9601,1 millicuri
+A9601,inj millicuri 1 Flortaucipir
+A9602,Fluorodopa f-18 diag per mci
+A9602,Fluorodopa f-18
+A9602,f-18 diag
+A9602,diag per
+A9602,per mci
+A9602,per diag mci Fluorodopa f-18
+A9700,Echocardiography contrast
+A9800,Gallium locametz 1 millicuri
+A9800,Gallium locametz
+A9800,locametz 1
+A9800,1 millicuri
+A9800,Gallium 1 locametz millicuri
+C8937,Cad breast mri 
+C8937,Cad breast
+C8937,breast mri
+C8937,Cad mri breast
+C9067,Gallium ga-68 dotatoc
+C9067,Gallium ga-68
+C9067,ga-68 dotatoc
+C9067,dotatoc ga-68 Gallium
+C9734,"U/s trtmt, not leiomyomata"
+C9734,"U/s trtmt,"
+C9734,"trtmt, not"
+C9734,not leiomyomata
+C9734,"leiomyomata U/s trtmt, not"
+C9762 ,Cardiac mri seg dys strain
+C9762 ,Cardiac mri
+C9762 ,mri seg
+C9762 ,seg dys
+C9762 ,dys strain
+C9762 ,strain seg Cardiac mri dys
+C9763,Cardiac mri seg dys stress
+C9763,Cardiac mri
+C9763,mri seg
+C9763,seg dys
+C9763,dys stress
+C9763,dys seg mri Cardiac stress
+G0130,Single energy x-ray study
+G0130,Single energy
+G0130,energy x-ray
+G0130,x-ray study
+G0130,Single x-ray study energy
+G0279,"Tomosynthesis, mammo screen"
+G0279,"Tomosynthesis, mammo"
+G0279,mammo screen
+G0279,"screen mammo Tomosynthesis,"
+G0288,"Recon, cta for surg plan "
+G0288,"Recon, cta"
+G0288,cta for
+G0288,for surg
+G0288,surg plan
+G0288,"cta plan Recon, surg for"
+Q0092,Set up port xray equipment 
+Q0092,Set up
+Q0092,up port
+Q0092,port xray
+Q0092,xray equipment
+Q0092,equipment up Set port xray
+Q9950,Inj sulf hexa lipid microsph
+Q9950,Inj sulf
+Q9950,sulf hexa
+Q9950,hexa lipid
+Q9950,lipid microsph
+Q9950,lipid microsph sulf Inj hexa
+Q9951,"LOCM>=400 mg/ml iodine,1ml"
+Q9951,LOCM>=400 mg/ml
+Q9951,"mg/ml iodine,1ml"
+Q9951,"mg/ml iodine,1ml LOCM>=400"
+Q9953,"Inj Fe-based MR contrast,1ml"
+Q9953,Inj Fe-based
+Q9953,Fe-based MR
+Q9953,"MR contrast,1ml"
+Q9953,"Fe-based Inj MR contrast,1ml"
+Q9954,"Oral MR contrast, 100ml"
+Q9954,Oral MR
+Q9954,"MR contrast,"
+Q9954,"contrast, 100ml"
+Q9954,"contrast, Oral MR 100ml"
+Q9955,"Inj perflexane lip micros,ml"
+Q9955,Inj perflexane
+Q9955,perflexane lip
+Q9955,"lip micros,ml"
+Q9955,"micros,ml Inj perflexane lip"
+Q9956,"Inj octafluoropropane mic,ml"
+Q9956,Inj octafluoropropane
+Q9956,"octafluoropropane mic,ml"
+Q9956,"mic,ml Inj octafluoropropane"
+Q9957,"Inj perflutren lip micros,ml"
+Q9957,Inj perflutren
+Q9957,perflutren lip
+Q9957,"lip micros,ml"
+Q9957,"perflutren micros,ml lip Inj"
+Q9958,"HOCM <=149 mg/ml iodine, 1ml"
+Q9958,HOCM <=149
+Q9958,<=149 mg/ml
+Q9958,"mg/ml iodine,"
+Q9958,"iodine, 1ml"
+Q9958,"mg/ml iodine, <=149 1ml HOCM"
+Q9959,"HOCM 150-199mg/ml iodine,1ml"
+Q9959,HOCM 150-199mg/ml
+Q9959,"150-199mg/ml iodine,1ml"
+Q9960,"HOCM 200-249mg/ml iodine,1ml"
+Q9960,HOCM 200-249mg/ml
+Q9960,"200-249mg/ml iodine,1ml"
+Q9960,"200-249mg/ml HOCM iodine,1ml"
+Q9961,"HOCM 250-299mg/ml iodine,1ml"
+Q9961,HOCM 250-299mg/ml
+Q9961,"250-299mg/ml iodine,1ml"
+Q9962,"HOCM 300-349mg/ml iodine,1ml"
+Q9962,HOCM 300-349mg/ml
+Q9962,"300-349mg/ml iodine,1ml"
+Q9962,"iodine,1ml HOCM 300-349mg/ml"
+Q9963,"HOCM 350-399mg/ml iodine,1ml"
+Q9963,HOCM 350-399mg/ml
+Q9963,"350-399mg/ml iodine,1ml"
+Q9963,"350-399mg/ml iodine,1ml HOCM"
+Q9964,"HOCM>= 400mg/ml iodine, 1ml"
+Q9964,HOCM>= 400mg/ml
+Q9964,"400mg/ml iodine,"
+Q9964,"iodine, 1ml"
+Q9964,"HOCM>= 400mg/ml 1ml iodine,"
+Q9965,"LOCM 100-199mg/ml iodine,1ml"
+Q9965,LOCM 100-199mg/ml
+Q9965,"100-199mg/ml iodine,1ml"
+Q9965,"iodine,1ml 100-199mg/ml LOCM"
+Q9966,"LOCM 200-299mg/ml iodine,1ml"
+Q9966,LOCM 200-299mg/ml
+Q9966,"200-299mg/ml iodine,1ml"
+Q9966,"iodine,1ml 200-299mg/ml LOCM"
+Q9967,"LOCM 300-399mg/ml iodine,1ml"
+Q9967,LOCM 300-399mg/ml
+Q9967,"300-399mg/ml iodine,1ml"
+Q9967,"300-399mg/ml iodine,1ml LOCM"
+Q9982,Flutemetamol f18 diagnostic
+Q9982,Flutemetamol f18
+Q9982,f18 diagnostic
+Q9983 ,Florbetaben f18 diagnostic
+Q9983 ,Florbetaben f18
+Q9983 ,f18 diagnostic
+R0070,Transport portable x-ray
+R0070,Transport portable
+R0070,portable x-ray
+R0070,Transport x-ray portable
+R0075,Transport port x-ray multipl
+R0075,Transport port
+R0075,port x-ray
+R0075,x-ray multipl
+R0075,Transport multipl port x-ray
+0394T ,Hdr elctrnc skn surf brchytx
+0394T ,Hdr elctrnc
+0394T ,elctrnc skn
+0394T ,skn surf
+0394T ,surf brchytx
+0394T ,brchytx elctrnc surf skn Hdr
+0395T,Hdr elctr ntrst/ntrcv brchtx
+0395T,Hdr elctr
+0395T,elctr ntrst/ntrcv
+0395T,ntrst/ntrcv brchtx
+0395T,brchtx elctr ntrst/ntrcv Hdr
+19296,Place po breast cath for rad
+19296,Place po
+19296,po breast
+19296,breast cath
+19296,cath for
+19296,for rad
+19296,for rad Place cath po breast
+19297,Place breast cath for rad
+19297,Place breast
+19297,breast cath
+19297,cath for
+19297,for rad
+19297,breast rad for Place cath
+19298,Place breast rad tube/caths
+19298,Place breast
+19298,breast rad
+19298,rad tube/caths
+19298,Place rad tube/caths breast
+20555,Place ndl musc/tis for rt
+20555,Place ndl
+20555,ndl musc/tis
+20555,musc/tis for
+20555,for rt
+20555,musc/tis Place ndl rt for
+31643,Diag bronchoscope/catheter
+32553,Ins mark thor for rt perq
+32553,Ins mark
+32553,mark thor
+32553,thor for
+32553,for rt
+32553,rt perq
+32553,for thor perq mark rt Ins
+32701,Thorax stereo rad targetw/tx
+32701,Thorax stereo
+32701,stereo rad
+32701,rad targetw/tx
+32701,Thorax rad targetw/tx stereo
+41019,Place needles hn for rt
+41019,Place needles
+41019,needles hn
+41019,hn for
+41019,for rt
+41019,rt hn Place for needles
+49327,Lap ins device for rt
+49327,Lap ins
+49327,ins device
+49327,device for
+49327,for rt
+49327,device for ins rt Lap
+49411,Ins mark abd/pel for rt perq
+49411,Ins mark
+49411,mark abd/pel
+49411,abd/pel for
+49411,for rt
+49411,rt perq
+49411,abd/pel perq mark for rt Ins
+49412,Ins device for rt guide open
+49412,Ins device
+49412,device for
+49412,for rt
+49412,rt guide
+49412,guide open
+49412,rt guide open device Ins for
+55875,Transperi needle place pros
+55875,Transperi needle
+55875,needle place
+55875,place pros
+55875,Transperi place pros needle
+55876,Place rt device/marker pros
+55876,Place rt
+55876,rt device/marker
+55876,device/marker pros
+55876,pros device/marker Place rt
+55920,Place needles pelvic for rt
+55920,Place needles
+55920,needles pelvic
+55920,pelvic for
+55920,for rt
+55920,needles for Place pelvic rt
+57155,Insert uteri tandems/ovoids
+57155,Insert uteri
+57155,uteri tandems/ovoids
+57155,uteri Insert tandems/ovoids
+57156,Ins vag brachytx device
+57156,Ins vag
+57156,vag brachytx
+57156,brachytx device
+57156,brachytx vag device Ins
+58346,Insert heyman uteri capsule
+58346,Insert heyman
+58346,heyman uteri
+58346,uteri capsule
+58346,capsule Insert uteri heyman
+61770,Incise skull for treatment
+61770,Incise skull
+61770,skull for
+61770,for treatment
+61770,treatment for skull Incise
+61796,SRS cranial lesion simple
+61796,SRS cranial
+61796,cranial lesion
+61796,lesion simple
+61796,cranial lesion SRS simple
+61797,SRS cran les simple addl
+61797,SRS cran
+61797,cran les
+61797,les simple
+61797,simple addl
+61797,les SRS simple cran addl
+61798,SRS cranial lesion complex
+61798,SRS cranial
+61798,cranial lesion
+61798,lesion complex
+61798,SRS lesion cranial complex
+61799,SRS cran les complex addl
+61799,SRS cran
+61799,cran les
+61799,les complex
+61799,complex addl
+61799,cran SRS les addl complex
+61800,Apply SRS headframe add-on
+61800,Apply SRS
+61800,SRS headframe
+61800,headframe add-on
+61800,SRS Apply add-on headframe
+63620,SRS spinal lesion
+63620,SRS spinal
+63620,spinal lesion
+63620,spinal lesion SRS
+63621,SRS spinal lesion addl
+63621,SRS spinal
+63621,spinal lesion
+63621,lesion addl
+63621,spinal lesion SRS addl
+64625,Rf abltj nrv nrvtg si jt
+64625,Rf abltj
+64625,abltj nrv
+64625,nrv nrvtg
+64625,nrvtg si
+64625,si jt
+64625,nrvtg jt abltj si Rf nrv
+77261,Radiation therapy planning
+77261,Radiation therapy
+77261,therapy planning
+77261,planning therapy Radiation
+77262,Radiation therapy planning
+77262,Radiation therapy
+77262,therapy planning
+77262,therapy Radiation planning
+77263,Radiation therapy planning
+77263,Radiation therapy
+77263,therapy planning
+77263,therapy Radiation planning
+77280,Set radiation therapy field
+77280,Set radiation
+77280,radiation therapy
+77280,therapy field
+77280,field radiation therapy Set
+77285,Set radiation therapy field
+77285,Set radiation
+77285,radiation therapy
+77285,therapy field
+77285,radiation Set field therapy
+77290,Set radiation therapy field
+77290,Set radiation
+77290,radiation therapy
+77290,therapy field
+77290,therapy Set radiation field
+77295,Set radiation therapy field
+77295,Set radiation
+77295,radiation therapy
+77295,therapy field
+77295,field radiation therapy Set
+77299,Radiation therapy planning
+77299,Radiation therapy
+77299,therapy planning
+77299,Radiation planning therapy
+77300,Radiation therapy dose plan
+77300,Radiation therapy
+77300,therapy dose
+77300,dose plan
+77300,Radiation plan dose therapy
+77301,Radiotherapy dose plan imrt
+77301,Radiotherapy dose
+77301,dose plan
+77301,plan imrt
+77301,dose Radiotherapy plan imrt
+77306,Telethx isodose plan simple
+77306,Telethx isodose
+77306,isodose plan
+77306,plan simple
+77306,plan Telethx isodose simple
+77307,Telethx isodose plan cplx
+77307,Telethx isodose
+77307,isodose plan
+77307,plan cplx
+77307,cplx isodose plan Telethx
+77316,Brachytx isodose plan simple
+77316,Brachytx isodose
+77316,isodose plan
+77316,plan simple
+77316,Brachytx isodose simple plan
+77317,Brachytx isodose intermed
+77317,Brachytx isodose
+77317,isodose intermed
+77317,isodose Brachytx intermed
+77318,Brachytx isodose complex
+77318,Brachytx isodose
+77318,isodose complex
+77318,Brachytx complex isodose
+77321,Special teletx port plan
+77321,Special teletx
+77321,teletx port
+77321,port plan
+77321,plan teletx port Special
+77331,Special radiation dosimetry
+77331,Special radiation
+77331,radiation dosimetry
+77332,Radiation treatment aid(s)
+77332,Radiation treatment
+77332,treatment aid(s)
+77332,aid(s) Radiation treatment
+77333,Radiation treatment aid(s)
+77333,Radiation treatment
+77333,treatment aid(s)
+77333,treatment aid(s) Radiation
+77334,Radiation treatment aid(s)
+77334,Radiation treatment
+77334,treatment aid(s)
+77334,aid(s) Radiation treatment
+77336,Radiation physics consult
+77336,Radiation physics
+77336,physics consult
+77336,physics Radiation consult
+77338,Design mlc device for imrt
+77338,Design mlc
+77338,mlc device
+77338,device for
+77338,for imrt
+77338,mlc for imrt device Design
+77370,Radiation physics consult
+77370,Radiation physics
+77370,physics consult
+77370,physics Radiation consult
+77371,Srs multisource
+77372,Srs linear based
+77372,Srs linear
+77372,linear based
+77372,Srs based linear
+77373,Sbrt delivery
+77373,delivery Sbrt
+77385,Ntsty modul rad tx dlvr smpl
+77385,Ntsty modul
+77385,modul rad
+77385,rad tx
+77385,tx dlvr
+77385,dlvr smpl
+77385,smpl dlvr modul rad tx Ntsty
+77386,Ntsty modul rad tx dlvr cplx
+77386,Ntsty modul
+77386,modul rad
+77386,rad tx
+77386,tx dlvr
+77386,dlvr cplx
+77386,dlvr tx Ntsty modul cplx rad
+77399,External radiation dosimetry
+77399,External radiation
+77399,radiation dosimetry
+77399,External dosimetry radiation
+77401,Radiation treatment delivery
+77401,Radiation treatment
+77401,treatment delivery
+77401,delivery Radiation treatment
+77402,Radiation treatment delivery
+77402,Radiation treatment
+77402,treatment delivery
+77402,delivery Radiation treatment
+77407,Radiation treatment delivery
+77407,Radiation treatment
+77407,treatment delivery
+77412,Radiation treatment delivery
+77412,Radiation treatment
+77412,treatment delivery
+77412,Radiation delivery treatment
+77417,Radiology port film(s)
+77417,Radiology port
+77417,port film(s)
+77417,Radiology film(s) port
+77423,Neutron beam tx complex
+77423,Neutron beam
+77423,beam tx
+77423,tx complex
+77423,Neutron tx beam complex
+77427,Radiation tx management x5
+77427,Radiation tx
+77427,tx management
+77427,management x5
+77427,x5 tx management Radiation
+77431,Radiation therapy management
+77431,Radiation therapy
+77431,therapy management
+77431,therapy Radiation management
+77432,Stereotactic radiation trmt
+77432,Stereotactic radiation
+77432,radiation trmt
+77432,Stereotactic trmt radiation
+77435,Sbrt management
+77435,management Sbrt
+77470,Special radiation treatment
+77470,Special radiation
+77470,radiation treatment
+77470,treatment radiation Special
+77499,Radiation therapy management
+77499,Radiation therapy
+77499,therapy management
+77499,management Radiation therapy
+77520,Proton trmt simple w/o comp
+77520,Proton trmt
+77520,trmt simple
+77520,simple w/o
+77520,w/o comp
+77520,Proton comp simple trmt w/o
+77522,Proton trmt simple w/comp
+77522,Proton trmt
+77522,trmt simple
+77522,simple w/comp
+77522,Proton simple trmt w/comp
+77523,Proton trmt intermediate
+77523,Proton trmt
+77523,trmt intermediate
+77523,Proton intermediate trmt
+77525,Proton treatment complex
+77525,Proton treatment
+77525,treatment complex
+77525,complex treatment Proton
+77600,Hyperthermia treatment
+77605,Hyperthermia treatment
+77610,Hyperthermia treatment
+77615,Hyperthermia treatment
+77620,Hyperthermia treatment
+77620,treatment Hyperthermia
+77750,Infuse radioactive materials
+77750,Infuse radioactive
+77750,radioactive materials
+77761,Apply intrcav radiat simple
+77761,Apply intrcav
+77761,intrcav radiat
+77761,radiat simple
+77761,simple radiat intrcav Apply
+77762,Apply intrcav radiat interm
+77762,Apply intrcav
+77762,intrcav radiat
+77762,radiat interm
+77762,Apply interm intrcav radiat
+77763,Apply intrcav radiat compl
+77763,Apply intrcav
+77763,intrcav radiat
+77763,radiat compl
+77763,intrcav radiat Apply compl
+77767,Hdr rdncl skn surf brachytx
+77767,Hdr rdncl
+77767,rdncl skn
+77767,skn surf
+77767,surf brachytx
+77767,surf skn Hdr brachytx rdncl
+77768,Hdr rdncl skn surf brachytx
+77768,Hdr rdncl
+77768,rdncl skn
+77768,skn surf
+77768,surf brachytx
+77768,surf skn brachytx Hdr rdncl
+77770,Hdr rdncl ntrstl/icav brchtx
+77770,Hdr rdncl
+77770,rdncl ntrstl/icav
+77770,ntrstl/icav brchtx
+77770,rdncl brchtx ntrstl/icav Hdr
+77771,Hdr rdncl ntrstl/icav brchtx
+77771,Hdr rdncl
+77771,rdncl ntrstl/icav
+77771,ntrstl/icav brchtx
+77771,brchtx ntrstl/icav rdncl Hdr
+77772,Hdr rdncl ntrstl/icav brchtx
+77772,Hdr rdncl
+77772,rdncl ntrstl/icav
+77772,ntrstl/icav brchtx
+77772,ntrstl/icav brchtx rdncl Hdr
+77778,Apply interstit radiat compl
+77778,Apply interstit
+77778,interstit radiat
+77778,radiat compl
+77778,compl Apply interstit radiat
+77789,Apply surface radiation
+77789,Apply surface
+77789,surface radiation
+77789,surface Apply radiation
+77790,Radiation handling
+77799,Radium/radioisotope therapy
+78830,Rp loclzj tum spect w/ct 1 
+78830,Rp loclzj
+78830,loclzj tum
+78830,tum spect
+78830,spect w/ct
+78830,w/ct 1
+78830,tum Rp spect loclzj w/ct 1
+78831,Rp loclzj tum spect 2 areas
+78831,Rp loclzj
+78831,loclzj tum
+78831,tum spect
+78831,spect 2
+78831,2 areas
+78831,tum Rp spect loclzj 2 areas
+78832,Rp loclzj tum spect w/ct 2
+78832,Rp loclzj
+78832,loclzj tum
+78832,tum spect
+78832,spect w/ct
+78832,w/ct 2
+78832,Rp w/ct tum 2 loclzj spect
+78835,Rp quan meas single area
+78835,Rp quan
+78835,quan meas
+78835,meas single
+78835,single area
+78835,quan meas area Rp single
+79005,Nuclear rx oral admin
+79005,Nuclear rx
+79005,rx oral
+79005,oral admin
+79005,rx oral admin Nuclear
+79101,Nuclear rx iv admin
+79101,Nuclear rx
+79101,rx iv
+79101,iv admin
+79101,Nuclear iv rx admin
+79200,Nuclear rx intracav admin
+79200,Nuclear rx
+79200,rx intracav
+79200,intracav admin
+79200,admin Nuclear intracav rx
+79300,Nuclr rx interstit colloid
+79300,Nuclr rx
+79300,rx interstit
+79300,interstit colloid
+79300,colloid rx Nuclr interstit
+79403,Hematopoietic nuclear tx
+79403,Hematopoietic nuclear
+79403,nuclear tx
+79403,nuclear Hematopoietic tx
+79440,Nuclear rx intra-articular
+79440,Nuclear rx
+79440,rx intra-articular
+79445,Nuclear rx intra-arterial
+79445,Nuclear rx
+79445,rx intra-arterial
+79445,intra-arterial rx Nuclear
+79999,Nuclear medicine therapy
+79999,Nuclear medicine
+79999,medicine therapy
+79999,medicine Nuclear therapy
+92974,Cath place cardio brachytx
+92974,Cath place
+92974,place cardio
+92974,cardio brachytx
+92974,cardio place Cath brachytx
+A4650,Implant radiation dosimeter
+A4650,Implant radiation
+A4650,radiation dosimeter
+A4650,radiation Implant dosimeter
+A9513,Lutetium Lu 177 dotatat ther
+A9513,Lutetium Lu
+A9513,Lu 177
+A9513,177 dotatat
+A9513,dotatat ther
+A9513,ther dotatat Lu Lutetium 177
+A9517,"I131 iodide cap, rx"
+A9517,I131 iodide
+A9517,"iodide cap,"
+A9517,"cap, rx"
+A9517,"I131 rx iodide cap,"
+A9527,Iodine I-125 sodium iodide
+A9527,Iodine I-125
+A9527,I-125 sodium
+A9527,sodium iodide
+A9527,iodide Iodine I-125 sodium
+A9530,"I131 iodide sol, rx"
+A9530,I131 iodide
+A9530,"iodide sol,"
+A9530,"sol, rx"
+A9530,"rx iodide sol, I131"
+A9543,"Y90 ibritumomab, rx"
+A9543,"Y90 ibritumomab,"
+A9543,"ibritumomab, rx"
+A9543,"Y90 rx ibritumomab,"
+A9563,P32 Na phosphate
+A9563,P32 Na
+A9563,Na phosphate
+A9563,P32 phosphate Na
+A9564,P32 chromic phosphate
+A9564,P32 chromic
+A9564,chromic phosphate
+A9564,chromic P32 phosphate
+A9590,Iodine i-131 iobenguane 1mci
+A9590,Iodine i-131
+A9590,i-131 iobenguane
+A9590,iobenguane 1mci
+A9590,i-131 iobenguane Iodine 1mci
+A9600,Sr89 strontium
+A9600,strontium Sr89
+A9604,Sm 153 lexidronam
+A9604,Sm 153
+A9604,153 lexidronam
+A9604,lexidronam 153 Sm
+A9606,Radium Ra223 dichloride ther
+A9606,Radium Ra223
+A9606,Ra223 dichloride
+A9606,dichloride ther
+A9606,Ra223 Radium ther dichloride
+A9607,Lutetium lu 177 vipivotide
+A9607,Lutetium lu
+A9607,lu 177
+A9607,177 vipivotide
+A9607,vipivotide 177 Lutetium lu
+A9699,Radiopharm rx agent noc
+A9699,Radiopharm rx
+A9699,rx agent
+A9699,agent noc
+A9699,noc Radiopharm agent rx
+C1716,"Brachytx, non-str, Gold-198"
+C1716,"Brachytx, non-str,"
+C1716,"non-str, Gold-198"
+C1716,"Gold-198 non-str, Brachytx,"
+C1717,"Brachytx, non-str,HDR Ir-192"
+C1717,"Brachytx, non-str,HDR"
+C1717,"non-str,HDR Ir-192"
+C1717,"non-str,HDR Brachytx, Ir-192"
+C1719,"Brachytx, NS, Non-HDRIr-192"
+C1719,"Brachytx, NS,"
+C1719,"NS, Non-HDRIr-192"
+C1719,"NS, Non-HDRIr-192 Brachytx,"
+C2616,"Brachytx, non-str,Yttrium-90"
+C2634,"Brachytx, non-str, HA, I-125"
+C2634,"Brachytx, non-str,"
+C2634,"non-str, HA,"
+C2634,"HA, I-125"
+C2634,"I-125 HA, Brachytx, non-str,"
+C2635,"Brachytx, non-str, HA, P-103"
+C2635,"Brachytx, non-str,"
+C2635,"non-str, HA,"
+C2635,"HA, P-103"
+C2635,"Brachytx, non-str, P-103 HA,"
+C2636,"Brachy linear, non-str,P-103"
+C2636,"Brachy linear,"
+C2636,"linear, non-str,P-103"
+C2636,"Brachy non-str,P-103 linear,"
+C2638,"Brachytx, stranded, I-125"
+C2638,"Brachytx, stranded,"
+C2638,"stranded, I-125"
+C2638,"stranded, Brachytx, I-125"
+C2639,"Brachytx,non-stranded,I-125"
+C2640,"Brachytx, stranded, P-103"
+C2640,"Brachytx, stranded,"
+C2640,"stranded, P-103"
+C2640,"stranded, Brachytx, P-103"
+C2641,"Brachytx, non-stranded,P-103"
+C2641,"non-stranded,P-103 Brachytx,"
+C2642,"Brachytx, stranded, C-131"
+C2642,"Brachytx, stranded,"
+C2642,"stranded, C-131"
+C2642,"stranded, C-131 Brachytx,"
+C2643,"Brachytx, non-stranded,C-131"
+C2643,"non-stranded,C-131 Brachytx,"
+C2644,Brachytx cesium-131 chloride
+C2644,Brachytx cesium-131
+C2644,cesium-131 chloride
+C2644,cesium-131 Brachytx chloride
+C2645,"Brachytx planar, p-103"
+C2645,"Brachytx planar,"
+C2645,"planar, p-103"
+C2645,"p-103 Brachytx planar,"
+C2698,"Brachytx, stranded, NOS"
+C2698,"Brachytx, stranded,"
+C2698,"stranded, NOS"
+C2698,"Brachytx, NOS stranded,"
+C2699,"Brachytx, non-stranded, NOS"
+C2699,"Brachytx, non-stranded,"
+C2699,"non-stranded, NOS"
+C2699,"non-stranded, NOS Brachytx,"
+G0339,"Robot lin-radsurg com, first"
+G0339,Robot lin-radsurg
+G0339,"lin-radsurg com,"
+G0339,"com, first"
+G0339,"Robot lin-radsurg first com,"
+G0340,Robt lin-radsurg fractx 2-5
+G0340,Robt lin-radsurg
+G0340,lin-radsurg fractx
+G0340,fractx 2-5
+G0340,fractx lin-radsurg Robt 2-5
+G6001 ,Echo guidance radiotherapy
+G6001 ,Echo guidance
+G6001 ,guidance radiotherapy
+G6001 ,Echo radiotherapy guidance
+G6002 ,Stereoscopic x-ray guidance
+G6002 ,Stereoscopic x-ray
+G6002 ,x-ray guidance
+G6002 ,Stereoscopic guidance x-ray
+G6003 ,Radiation treatment delivery
+G6003 ,Radiation treatment
+G6003 ,treatment delivery
+G6004,Radiation treatment delivery
+G6004,Radiation treatment
+G6004,treatment delivery
+G6005,Radiation treatment delivery
+G6005,Radiation treatment
+G6005,treatment delivery
+G6005,treatment Radiation delivery
+G6006 ,Radiation treatment delivery
+G6006 ,Radiation treatment
+G6006 ,treatment delivery
+G6006 ,delivery Radiation treatment
+G6007 ,Radiation treatment delivery
+G6007 ,Radiation treatment
+G6007 ,treatment delivery
+G6007 ,treatment Radiation delivery
+G6008,Radiation treatment delivery
+G6008,Radiation treatment
+G6008,treatment delivery
+G6008,Radiation delivery treatment
+G6009,Radiation treatment delivery
+G6009,Radiation treatment
+G6009,treatment delivery
+G6009,treatment Radiation delivery
+G6010,Radiation treatment delivery
+G6010,Radiation treatment
+G6010,treatment delivery
+G6010,treatment Radiation delivery
+G6011,Radiation treatment delivery
+G6011,Radiation treatment
+G6011,treatment delivery
+G6011,treatment delivery Radiation
+G6012,Radiation treatment delivery
+G6012,Radiation treatment
+G6012,treatment delivery
+G6012,treatment Radiation delivery
+G6013,Radiation treatment delivery
+G6013,Radiation treatment
+G6013,treatment delivery
+G6013,treatment delivery Radiation
+G6014,Radiation treatment delivery
+G6014,Radiation treatment
+G6014,treatment delivery
+G6014,delivery Radiation treatment
+G6015 ,Radiation tx delivery imrt
+G6015 ,Radiation tx
+G6015 ,tx delivery
+G6015 ,delivery imrt
+G6015 ,tx imrt Radiation delivery
+G6016 ,Delivery comp imrt
+G6016 ,Delivery comp
+G6016 ,comp imrt
+G6016 ,comp Delivery imrt
+G6017 ,Intrafraction track motion
+G6017 ,Intrafraction track
+G6017 ,track motion
+Q3001,Brachytherapy Radioelements
+80061,Lipid panel [only when billed with ICD-10-CM code  Z13.6] 
+80061,Lipid panel
+80061,panel [only
+80061,[only when
+80061,when billed
+80061,billed with
+80061,with ICD-10-CM
+80061,ICD-10-CM code
+80061,code Z13.6]
+80061,code when ICD-10-CM panel Z13.6] with [only Lipid billed
+81528,Oncology colorectal scr
+81528,Oncology colorectal
+81528,colorectal scr
+81528,colorectal scr Oncology
+82270,Occult blood feces
+82270,Occult blood
+82270,blood feces
+82270,feces Occult blood
+82465,Assay bld/serum cholesterol [only when billed with ICD-10-CM code Z13.6] 
+82465,Assay bld/serum
+82465,bld/serum cholesterol
+82465,cholesterol [only
+82465,[only when
+82465,when billed
+82465,billed with
+82465,with ICD-10-CM
+82465,ICD-10-CM code
+82465,code Z13.6]
+82465,Assay ICD-10-CM billed bld/serum when cholesterol Z13.6] with code [only
+82947,Assay glucose blood quant [only when billed with ICD-10-CM code Z13.1]
+82947,Assay glucose
+82947,glucose blood
+82947,blood quant
+82947,quant [only
+82947,[only when
+82947,when billed
+82947,billed with
+82947,with ICD-10-CM
+82947,ICD-10-CM code
+82947,code Z13.1]
+82947,billed Assay blood code when [only glucose with Z13.1] quant ICD-10-CM
+82950,Glucose test [only when billed with ICD-10-CM code Z13.1]
+82950,Glucose test
+82950,test [only
+82950,[only when
+82950,when billed
+82950,billed with
+82950,with ICD-10-CM
+82950,ICD-10-CM code
+82950,code Z13.1]
+82950,with when Z13.1] billed test Glucose ICD-10-CM [only code
+82951,Glucose tolerance test (GTT) [only when billed with ICD-10-CM code Z13.1]
+82951,Glucose tolerance
+82951,tolerance test
+82951,test (GTT)
+82951,(GTT) [only
+82951,[only when
+82951,when billed
+82951,billed with
+82951,with ICD-10-CM
+82951,ICD-10-CM code
+82951,code Z13.1]
+82951,tolerance ICD-10-CM billed test Z13.1] code Glucose when [only (GTT) with
+83718,Assay of lipoprotein [only when billed with ICD-10-CM code Z13.6] 
+83718,Assay of
+83718,of lipoprotein
+83718,lipoprotein [only
+83718,[only when
+83718,when billed
+83718,billed with
+83718,with ICD-10-CM
+83718,ICD-10-CM code
+83718,code Z13.6]
+83718,lipoprotein Z13.6] when with code of [only ICD-10-CM billed Assay
+84478,Assay of triglycerides [only when billed with ICD-10-CM code Z13.6] 
+84478,Assay of
+84478,of triglycerides
+84478,triglycerides [only
+84478,[only when
+84478,when billed
+84478,billed with
+84478,with ICD-10-CM
+84478,ICD-10-CM code
+84478,code Z13.6]
+84478,triglycerides Z13.6] of [only when with ICD-10-CM Assay code billed
+G0103,PSA screening
+G0103,screening PSA
+G0106,Colon CA screen;barium enema
+G0106,Colon CA
+G0106,CA screen;barium
+G0106,screen;barium enema
+G0106,CA enema screen;barium Colon
+G0118,Glaucoma scrn hgh risk direc
+G0118,Glaucoma scrn
+G0118,scrn hgh
+G0118,hgh risk
+G0118,risk direc
+G0118,scrn direc hgh risk Glaucoma
+G0120,Colon ca scrn; barium enema
+G0120,Colon ca
+G0120,ca scrn;
+G0120,scrn; barium
+G0120,barium enema
+G0120,ca scrn; barium enema Colon
+G0123,Screen cerv/vag thin layer
+G0123,Screen cerv/vag
+G0123,cerv/vag thin
+G0123,thin layer
+G0123,Screen layer thin cerv/vag
+G0124,Screen c/v thin layer by MD
+G0124,Screen c/v
+G0124,c/v thin
+G0124,thin layer
+G0124,layer by
+G0124,by MD
+G0124,layer MD by Screen c/v thin
+G0141,"Scr c/v cyto,autosys and md"
+G0141,Scr c/v
+G0141,"c/v cyto,autosys"
+G0141,"cyto,autosys and"
+G0141,and md
+G0141,"Scr cyto,autosys md c/v and"
+G0143,"Scr c/v cyto,thinlayer,rescr"
+G0143,Scr c/v
+G0143,"c/v cyto,thinlayer,rescr"
+G0144,"Scr c/v cyto,thinlayer,rescr"
+G0144,Scr c/v
+G0144,"c/v cyto,thinlayer,rescr"
+G0145 ,"Scr c/v cyto,thinlayer,rescr"
+G0145 ,Scr c/v
+G0145 ,"c/v cyto,thinlayer,rescr"
+G0145 ,"Scr cyto,thinlayer,rescr c/v"
+G0147,"Scr c/v cyto, automated sys"
+G0147,Scr c/v
+G0147,"c/v cyto,"
+G0147,"cyto, automated"
+G0147,automated sys
+G0147,"sys cyto, automated c/v Scr"
+G0148,"Scr c/v cyto, autosys, rescr"
+G0148,Scr c/v
+G0148,"c/v cyto,"
+G0148,"cyto, autosys,"
+G0148,"autosys, rescr"
+G0148,"c/v Scr cyto, rescr autosys,"
+G0327,Colon ca scrn;bld-bsd biomrk
+G0327,Colon ca
+G0327,ca scrn;bld-bsd
+G0327,scrn;bld-bsd biomrk
+G0327,Colon biomrk scrn;bld-bsd ca
+G0328,Fecal blood scrn immunoassay
+G0328,Fecal blood
+G0328,blood scrn
+G0328,scrn immunoassay
+G0432,EIA HIV-1/HIV-2 screen
+G0432,EIA HIV-1/HIV-2
+G0432,HIV-1/HIV-2 screen
+G0432,HIV-1/HIV-2 screen EIA
+G0433,ELISA HIV-1/HIV-2 screen
+G0433,ELISA HIV-1/HIV-2
+G0433,HIV-1/HIV-2 screen
+G0433,HIV-1/HIV-2 screen ELISA
+G0435,Oral HIV-1/HIV-2 screen
+G0435,Oral HIV-1/HIV-2
+G0435,HIV-1/HIV-2 screen
+G0475 ,HIV combination assay
+G0475 ,HIV combination
+G0475 ,combination assay
+G0499,HepB screen high risk indiv
+G0499,HepB screen
+G0499,screen high
+G0499,high risk
+G0499,risk indiv
+G0499,screen indiv risk high HepB
+P3000,Screen pap by tech w md supv
+P3000,Screen pap
+P3000,pap by
+P3000,by tech
+P3000,tech w
+P3000,w md
+P3000,md supv
+P3000,supv by w md pap tech Screen
+P3001,Screening pap smear by phys
+P3001,Screening pap
+P3001,pap smear
+P3001,smear by
+P3001,by phys
+P3001,by phys Screening pap smear
+90630,Flu vacc iiv4 no preserv id
+90630,Flu vacc
+90630,vacc iiv4
+90630,iiv4 no
+90630,no preserv
+90630,preserv id
+90630,id no preserv Flu vacc iiv4
+90654,Flu vacc iiv3 no preserv id
+90654,Flu vacc
+90654,vacc iiv3
+90654,iiv3 no
+90654,no preserv
+90654,preserv id
+90654,id vacc Flu iiv3 no preserv
+90655,IIV3 vacc no prsv 0.25 ml im
+90655,IIV3 vacc
+90655,vacc no
+90655,no prsv
+90655,prsv 0.25
+90655,0.25 ml
+90655,ml im
+90655,ml no IIV3 im prsv 0.25 vacc
+90656,IIV3 vacc no prsv 0.5 ml im
+90656,IIV3 vacc
+90656,vacc no
+90656,no prsv
+90656,prsv 0.5
+90656,0.5 ml
+90656,ml im
+90656,ml im vacc 0.5 no prsv IIV3
+90657,IIV3 vaccine splt 0.25 ml im
+90657,IIV3 vaccine
+90657,vaccine splt
+90657,splt 0.25
+90657,0.25 ml
+90657,ml im
+90657,vaccine IIV3 im ml splt 0.25
+90660,LAIV3 vaccine intranasal
+90660,LAIV3 vaccine
+90660,vaccine intranasal
+90660,LAIV3 intranasal vaccine
+90661,CCIIV3 vac no prsv 0.5 ml im
+90661,CCIIV3 vac
+90661,vac no
+90661,no prsv
+90661,prsv 0.5
+90661,0.5 ml
+90661,ml im
+90661,CCIIV3 im ml vac prsv no 0.5
+90662,IIV no prsv increased ag im
+90662,IIV no
+90662,no prsv
+90662,prsv increased
+90662,increased ag
+90662,ag im
+90662,ag im increased no prsv IIV
+90670,PCV13 vaccine im
+90670,PCV13 vaccine
+90670,vaccine im
+90671,Pcv15 vaccine im
+90671,Pcv15 vaccine
+90671,vaccine im
+90671,Pcv15 im vaccine
+90672,LAIV4 vaccine intranasal
+90672,LAIV4 vaccine
+90672,vaccine intranasal
+90672,vaccine intranasal LAIV4
+90673,RIV3 vaccine no preserv im
+90673,RIV3 vaccine
+90673,vaccine no
+90673,no preserv
+90673,preserv im
+90673,RIV3 vaccine preserv no im
+90674,CCIIV4 vac no prsv 0.5 ml im
+90674,CCIIV4 vac
+90674,vac no
+90674,no prsv
+90674,prsv 0.5
+90674,0.5 ml
+90674,ml im
+90674,vac prsv 0.5 no im ml CCIIV4
+90677,Pcv20 vaccine im
+90677,Pcv20 vaccine
+90677,vaccine im
+90677,vaccine Pcv20 im
+90682,RIV4 vacc recombinant dna im
+90682,RIV4 vacc
+90682,vacc recombinant
+90682,recombinant dna
+90682,dna im
+90682,im RIV4 dna recombinant vacc
+90685,IIV4 vacc no prsv 0.25 ml im
+90685,IIV4 vacc
+90685,vacc no
+90685,no prsv
+90685,prsv 0.25
+90685,0.25 ml
+90685,ml im
+90685,0.25 ml prsv vacc im IIV4 no
+90686,IIV4 vacc no prsv 0.5 ml im
+90686,IIV4 vacc
+90686,vacc no
+90686,no prsv
+90686,prsv 0.5
+90686,0.5 ml
+90686,ml im
+90686,no ml IIV4 prsv im 0.5 vacc
+90687,IIV4 vacc splt 0.25 ml im
+90687,IIV4 vacc
+90687,vacc splt
+90687,splt 0.25
+90687,0.25 ml
+90687,ml im
+90687,splt im vacc 0.25 ml IIV4
+90688,IIV4 vacc splt 0.5 ml im
+90688,IIV4 vacc
+90688,vacc splt
+90688,splt 0.5
+90688,0.5 ml
+90688,ml im
+90688,IIV4 im 0.5 vacc splt ml
+90689,Vacc iiv4 no prsrv 0.25ml im
+90689,Vacc iiv4
+90689,iiv4 no
+90689,no prsrv
+90689,prsrv 0.25ml
+90689,0.25ml im
+90689,Vacc iiv4 im no prsrv 0.25ml
+90694,Vacc aiiv4 no prsrv 0.5ml im
+90694,Vacc aiiv4
+90694,aiiv4 no
+90694,no prsrv
+90694,prsrv 0.5ml
+90694,0.5ml im
+90694,im Vacc 0.5ml no prsrv aiiv4
+90732,PPSV23 vacc 2 yrs subq/im
+90732,PPSV23 vacc
+90732,vacc 2
+90732,2 yrs
+90732,yrs subq/im
+90732,vacc PPSV23 subq/im 2 yrs
+90740,Hepb vacc 3 dose immunsup im
+90740,Hepb vacc
+90740,vacc 3
+90740,3 dose
+90740,dose immunsup
+90740,immunsup im
+90740,dose vacc im Hepb 3 immunsup
+90743,Hepb vacc 2 dose adolesc im
+90743,Hepb vacc
+90743,vacc 2
+90743,2 dose
+90743,dose adolesc
+90743,adolesc im
+90743,im adolesc vacc Hepb dose 2
+90744,Hepb vacc 3 dose ped/adol im
+90744,Hepb vacc
+90744,vacc 3
+90744,3 dose
+90744,dose ped/adol
+90744,ped/adol im
+90744,dose ped/adol im 3 vacc Hepb
+90746,Hepb vaccine 3 dose adult im
+90746,Hepb vaccine
+90746,vaccine 3
+90746,3 dose
+90746,dose adult
+90746,adult im
+90746,dose Hepb adult 3 im vaccine
+90747,Hepb vacc 4 dose immunsup im
+90747,Hepb vacc
+90747,vacc 4
+90747,4 dose
+90747,dose immunsup
+90747,immunsup im
+90747,dose vacc 4 im immunsup Hepb
+90749,Unlisted vaccine/toxoid[only when used to identify a COVID-19 vaccine]
+90749,Unlisted vaccine/toxoid[only
+90749,vaccine/toxoid[only when
+90749,when used
+90749,used to
+90749,to identify
+90749,identify a
+90749,a COVID-19
+90749,COVID-19 vaccine]
+90749,vaccine/toxoid[only a to Unlisted used identify vaccine] COVID-19 when
+90756,Cciiv4 vacc abx free im
+90756,Cciiv4 vacc
+90756,vacc abx
+90756,abx free
+90756,free im
+90756,free vacc abx Cciiv4 im
+90759,Hep b vac 3ag 10mcg 3 dos im
+90759,Hep b
+90759,b vac
+90759,vac 3ag
+90759,3ag 10mcg
+90759,10mcg 3
+90759,3 dos
+90759,dos im
+90759,b 10mcg 3 Hep dos vac 3ag im
+91300,Sarscov2 vac 30mcg/0.3ml im
+91300,Sarscov2 vac
+91300,vac 30mcg/0.3ml
+91300,30mcg/0.3ml im
+91300,im 30mcg/0.3ml vac Sarscov2
+91301,Sarscov2 vac 100mcg/0.5ml im
+91301,Sarscov2 vac
+91301,vac 100mcg/0.5ml
+91301,100mcg/0.5ml im
+91301,im Sarscov2 vac 100mcg/0.5ml
+91302,Sarscov2 vac 5x10^10vp/.5mlim
+91302,Sarscov2 vac
+91302,vac 5x10^10vp/.5mlim
+91302,vac 5x10^10vp/.5mlim Sarscov2
+91303,Sarscov2 vac ad26 .5ml im
+91303,Sarscov2 vac
+91303,vac ad26
+91303,ad26 .5ml
+91303,.5ml im
+91303,im ad26 vac Sarscov2 .5ml
+91304,Sarscov2 vac 5mcg/0.5ml im
+91304,Sarscov2 vac
+91304,vac 5mcg/0.5ml
+91304,5mcg/0.5ml im
+91304,5mcg/0.5ml Sarscov2 im vac
+91305,Sarscov2 vac 30 mcg trs-sucr
+91305,Sarscov2 vac
+91305,vac 30
+91305,30 mcg
+91305,mcg trs-sucr
+91305,vac 30 trs-sucr Sarscov2 mcg
+91306,Sarscov2 vac 50mcg/0.25ml im
+91306,Sarscov2 vac
+91306,vac 50mcg/0.25ml
+91306,50mcg/0.25ml im
+91306,Sarscov2 im vac 50mcg/0.25ml
+91307,Sarscov2 vac 10 mcg trs-sucr
+91307,Sarscov2 vac
+91307,vac 10
+91307,10 mcg
+91307,mcg trs-sucr
+91307,Sarscov2 mcg trs-sucr vac 10
+91308,Sarscov2 vac 3 mcg trs-sucr
+91308,Sarscov2 vac
+91308,vac 3
+91308,3 mcg
+91308,mcg trs-sucr
+91308,vac mcg 3 Sarscov2 trs-sucr
+91309,Sarscov2 vac 50mcg/0.5ml im
+91309,Sarscov2 vac
+91309,vac 50mcg/0.5ml
+91309,50mcg/0.5ml im
+91309,50mcg/0.5ml im Sarscov2 vac
+91310,Sarscov2 vac 5mcg/0.5ml as03
+91310,Sarscov2 vac
+91310,vac 5mcg/0.5ml
+91310,5mcg/0.5ml as03
+91310,5mcg/0.5ml as03 Sarscov2 vac
+91311,Sarscov2 vac 25mcg/0.25ml im
+91311,Sarscov2 vac
+91311,vac 25mcg/0.25ml
+91311,25mcg/0.25ml im
+91311,im Sarscov2 vac 25mcg/0.25ml
+91312,Sarscov2 vac bvl 30mcg/0.3ml
+91312,Sarscov2 vac
+91312,vac bvl
+91312,bvl 30mcg/0.3ml
+91313,Sarscov2 vac bvl 50mcg/0.5ml
+91313,Sarscov2 vac
+91313,vac bvl
+91313,bvl 50mcg/0.5ml
+91314,Sarscov2 vac bvl 25mcg/.25ml
+91314,Sarscov2 vac
+91314,vac bvl
+91314,bvl 25mcg/.25ml
+91314,vac bvl Sarscov2 25mcg/.25ml
+91315,Sarscov2 vac bvl 10mcg/0.2ml
+91315,Sarscov2 vac
+91315,vac bvl
+91315,bvl 10mcg/0.2ml
+91315,vac Sarscov2 bvl 10mcg/0.2ml
+Q0220,"Tixagev and cilgav, 300mg"
+Q0220,Tixagev and
+Q0220,"and cilgav,"
+Q0220,"cilgav, 300mg"
+Q0220,"300mg and Tixagev cilgav,"
+Q0221,"Tixagev and cilgav, 600mg"
+Q0221,Tixagev and
+Q0221,"and cilgav,"
+Q0221,"cilgav, 600mg"
+Q0221,"cilgav, and Tixagev 600mg"
+Q0222,Bebtelovimab 175 mg
+Q0222,Bebtelovimab 175
+Q0222,175 mg
+Q0222,mg 175 Bebtelovimab
+Q0240,Casirivi and imdevi 600 mg
+Q0240,Casirivi and
+Q0240,and imdevi
+Q0240,imdevi 600
+Q0240,600 mg
+Q0240,Casirivi 600 imdevi mg and
+Q0243,Casirivimab and imdevimab
+Q0243,Casirivimab and
+Q0243,and imdevimab
+Q0243,imdevimab Casirivimab and
+Q0244,Casirivi and imdevi 1200 mg
+Q0244,Casirivi and
+Q0244,and imdevi
+Q0244,imdevi 1200
+Q0244,1200 mg
+Q0244,1200 Casirivi mg imdevi and
+Q0245,Bamlanivimab and etesevima
+Q0245,Bamlanivimab and
+Q0245,and etesevima
+Q0245,etesevima and Bamlanivimab
+Q0247,Sotrovimab
+Q0249,Tocilizumab for covid-19
+Q0249,Tocilizumab for
+Q0249,for covid-19
+Q0249,for covid-19 Tocilizumab
+Q2034,Agriflu vaccine
+Q2034,vaccine Agriflu
+Q2035,"Afluria vacc, 3 yrs  >, im"
+Q2035,"Afluria vacc,"
+Q2035,"vacc, 3"
+Q2035,3 yrs
+Q2035,"yrs >,"
+Q2035,">, im"
+Q2035,"vacc, yrs 3 im Afluria >,"
+Q2036,"Flulaval vacc, 3 yrs  >, im"
+Q2036,"Flulaval vacc,"
+Q2036,"vacc, 3"
+Q2036,3 yrs
+Q2036,"yrs >,"
+Q2036,">, im"
+Q2036,"vacc, im >, yrs 3 Flulaval"
+Q2037,"Fluvirin vacc, 3 yrs  >, im"
+Q2037,"Fluvirin vacc,"
+Q2037,"vacc, 3"
+Q2037,3 yrs
+Q2037,"yrs >,"
+Q2037,">, im"
+Q2037,"yrs 3 Fluvirin im vacc, >,"
+Q2038,"Fluzone vacc, 3 yrs  >, im"
+Q2038,"Fluzone vacc,"
+Q2038,"vacc, 3"
+Q2038,3 yrs
+Q2038,"yrs >,"
+Q2038,">, im"
+Q2038,"yrs 3 vacc, >, Fluzone im"
+Q2039,"Influenza virus vaccine, nos"
+Q2039,Influenza virus
+Q2039,"virus vaccine,"
+Q2039,"vaccine, nos"
+Q2039,"virus Influenza vaccine, nos"
